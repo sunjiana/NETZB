@@ -82,31 +82,6 @@ CGT英语,http://pt.aisx.cc:99/zb/cqyx.php?id=cgtn
 中学生台,http://pt.aisx.cc:99/zb/cqyx.php?id=zxs
 
 B1,#genre#
-AMC电影台,http://95.179.139.113:5566/4gtv/39
-MTVLive音乐,http://95.179.139.113:5566/4gtv/213
-八大综艺台,http://95.179.139.113:5566/4gtv/114
-大爱电视,http://95.179.139.113:5566/4gtv/209
-公视戏剧,http://95.179.139.113:5566/4gtv/7
-寰宇新闻台,http://95.179.139.113:5566/4gtv/36
-寰宇新闻台湾台,http://95.179.139.113:5566/4gtv/280
-靖天日本台,http://95.179.139.113:5566/4gtv/22
-靖天映画,http://95.179.139.113:5566/4gtv/42
-靖天育乐台,http://95.179.139.113:5566/4gtv/83
-靖天综合台,http://95.179.139.113:5566/4gtv/21
-靖洋卡通NiceBingo,http://95.179.139.113:5566/4gtv/59
-靖洋戏剧台,http://95.179.139.113:5566/4gtv/118
-民视第一台,http://95.179.139.113:5566/4gtv/1
-民视第一台,http://95.179.139.113:5566/4gtv/254
-民视台湾台,http://95.179.139.113:5566/4gtv/2
-人间卫视,http://95.179.139.113:5566/4gtv/210
-三立新闻iNEWS,http://95.179.139.113:5566/4gtv/229
-戏剧免费看2台,http://95.179.139.113:5566/4gtv/244
-香蕉直击台,http://95.179.139.113:5566/4gtv/94
-亚洲旅游台,http://95.179.139.113:5566/4gtv/261
-影迷数位纪实台,http://95.179.139.113:5566/4gtv/212
-中天新闻台,http://95.179.139.113:5566/4gtv/30
-
-C1,#genre#
 AMC电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
 CAT电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv076
 GLo-Bet台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
@@ -174,7 +149,7 @@ tvbs新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
 中视新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv074
 中天新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
 
-D1,#genre#
+C1,#genre#
 AMC电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv017
 CATCHPLAY电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv076
 ELTA生活旅游,https://gat.zhoujie218.top/4gtv/237
@@ -247,7 +222,7 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 中天新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv009
 猪哥亮歌厅秀,https://gat.zhoujie218.top/litv/4gtv-4gtv006
 
-E1,#genre#
+D1,#genre#
 AMC电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
@@ -293,16 +268,15 @@ tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 
-F1,#genre#
-AXN,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1044
-ELTA影剧,https://hlspull.iptv8k.top/iptv/ubtv.php?id=500
-TVB星河,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1079
+E1,#genre#
+AXN,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2816
 TVBDRAWA,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1243
 TVBJ1,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1244
 TVBS欢乐台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=40
 TVBS精彩台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=117
 TVBS精彩台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=66
 TVBS明珠,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2437
+TVBS新闻台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2736
 TVBS,https://hlspull.iptv8k.top/iptv/ubtv.php?id=16
 TVBS,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2273
 TVBSNEWS,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2
@@ -332,6 +306,7 @@ TVBe,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1245
 非凡新闻,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2795
 非凡新闻,https://hlspull.iptv8k.top/iptv/ubtv.php?id=3236
 凤凰香港台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2810
+凤凰中文,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2812
 凤凰资讯,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2292
 凤凰资讯,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2811
 公视,https://hlspull.iptv8k.top/iptv/ubtv.php?id=86
@@ -340,11 +315,11 @@ TVBe,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1245
 靖天电影台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=110
 靖天日本台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=108
 靖天台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=345
+靖天戏剧台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=109
+靖天育乐台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1029
+靖天资讯台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=49
+靖天综合台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=308
 靖洋戏剧台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=319
-龙华电影,https://hlspull.iptv8k.top/iptv/ubtv.php?id=311
-龙华经典,https://hlspull.iptv8k.top/iptv/ubtv.php?id=100
-龙华戏剧,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2796
-龙华戏剧,https://hlspull.iptv8k.top/iptv/ubtv.php?id=365
 龙华洋片,https://hlspull.iptv8k.top/iptv/ubtv.php?id=341
 龙祥时代,https://hlspull.iptv8k.top/iptv/ubtv.php?id=373
 美亚电影台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=375
@@ -357,9 +332,12 @@ TVBe,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1245
 年代新闻,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2719
 三立都会,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2435
 三立都会台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1001
+三立都会台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=38
 三立台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2285
 三立台湾台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=21
 三立台湾台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=35
+三立戏剧台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2819
+三立戏剧台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=64
 三立综合台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2815
 三立综合台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=315
 天映,https://hlspull.iptv8k.top/iptv/ubtv.php?id=441
@@ -376,20 +354,16 @@ TVBe,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1245
 纬来综合,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2726
 无线新闻台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=394
 无线新闻台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=45
+壹新闻,https://hlspull.iptv8k.top/iptv/ubtv.php?id=2777
 壹新闻,https://hlspull.iptv8k.top/iptv/ubtv.php?id=494
 影迷电影,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1345
 娱乐新闻台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1242
-中视,https://hlspull.iptv8k.top/iptv/ubtv.php?id=1041
 中视,https://hlspull.iptv8k.top/iptv/ubtv.php?id=333
 中视经典,https://hlspull.iptv8k.top/iptv/ubtv.php?id=185
-中视青采,https://hlspull.iptv8k.top/iptv/ubtv.php?id=74
-中天亚洲台,https://hlspull.iptv8k.top/iptv/ubtv.php?id=322
-中天娱乐,https://hlspull.iptv8k.top/iptv/ubtv.php?id=324
-中天综合,https://hlspull.iptv8k.top/iptv/ubtv.php?id=3072
 中天综合,https://hlspull.iptv8k.top/iptv/ubtv.php?id=54
 猪哥亮歌厅,https://hlspull.iptv8k.top/iptv/ubtv.php?id=75
 
-G1,#genre#
+F1,#genre#
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
@@ -441,7 +415,6 @@ VIUTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南影视,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
@@ -452,7 +425,7 @@ VIUTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 有线综合台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 
-H1,#genre#
+G1,#genre#
 FGM电影台,http://8.137.59.151:99/tui/haiou.php?id=151
 MyTV黄金翡翠台,http://8.137.59.151:99/tui/haiou.php?id=11
 ROCK综艺娱乐,http://8.137.59.151:99/tui/haiou.php?id=32
@@ -493,7 +466,7 @@ Thrill电影台,http://8.137.59.151:99/tui/haiou.php?id=37
 中天亚洲台,http://8.137.59.151:99/tui/haiou.php?id=60
 中天综合台,http://8.137.59.151:99/tui/haiou.php?id=61
 
-I1,#genre#
+H1,#genre#
 MTV,http://37.27.111.214:8080/live/25/hls.m3u8
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
@@ -521,7 +494,7 @@ elta生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 综艺,http://37.27.111.214:8080/live/67/hls.m3u8
 
-J1,#genre#
+I1,#genre#
 MTV,http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
 TVBS,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
 东森新闻,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
@@ -543,6 +516,36 @@ TVBS,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
 中视青采,http://shuma004.chunfengyun.top:8080/live/48/hls.m3u8
 猪哥亮,http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
 综艺,http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
+
+J1,#genre#
+NiceTV靖天欢乐,http://95.179.139.113:5566/4gtv/119
+TVBS精采台,http://95.179.139.113:5566/4gtv/227
+TVBS综艺台,http://95.179.139.113:5566/4gtv/284
+TVBS,http://95.179.139.113:5566/4gtv/183
+爱尔达生活旅游,http://95.179.139.113:5566/4gtv/237
+八大综艺台,http://95.179.139.113:5566/4gtv/114
+半岛新闻台,http://95.179.139.113:5566/4gtv/85
+东森财经新闻台,http://95.179.139.113:5566/4gtv/293
+东森新闻台,http://95.179.139.113:5566/4gtv/292
+fun探索娱乐台,http://95.179.139.113:5566/4gtv/274
+华视,http://95.179.139.113:5566/4gtv/6
+华视新闻,http://95.179.139.113:5566/4gtv/256
+华视新闻,http://95.179.139.113:5566/4gtv/34
+寰宇财经台,http://95.179.139.113:5566/4gtv/281
+经典电影台,http://95.179.139.113:5566/4gtv/201
+靖天电影台,http://95.179.139.113:5566/4gtv/82
+靖洋戏剧台,http://95.179.139.113:5566/4gtv/118
+龙华戏剧台,http://95.179.139.113:5566/4gtv/23
+民视新闻台,http://95.179.139.113:5566/4gtv/31
+戏剧免费看2台,http://95.179.139.113:5566/4gtv/244
+香蕉直击台,http://95.179.139.113:5566/4gtv/94
+亚洲旅游台,http://95.179.139.113:5566/4gtv/261
+影迷数位纪实台,http://95.179.139.113:5566/4gtv/212
+中视,http://95.179.139.113:5566/4gtv/4
+中视菁采台,http://95.179.139.113:5566/4gtv/123
+中视经典台,http://95.179.139.113:5566/4gtv/124
+中视新闻,http://95.179.139.113:5566/4gtv/33
+中天新闻台,http://95.179.139.113:5566/4gtv/30
 
 K1,#genre#
 TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
@@ -580,12 +583,10 @@ L1,#genre#
 
 M1,#genre#
 河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
-河南法治,http://49.232.131.30:99/dxxw.php?id=hmfz
 河南公共,http://49.232.131.30:99/dxxw.php?id=hngg
 河南梨园,http://49.232.131.30:99/dxxw.php?id=hnly
 河南民生,http://49.232.131.30:99/dxxw.php?id=hnms
 河南卫视,http://49.232.131.30:99/dxxw.php?id=hnws
-河南文物宝库,http://49.232.131.30:99/dxxw.php?id=wwbk
 河南武术世界,http://49.232.131.30:99/dxxw.php?id=wspd
 河南乡村,http://49.232.131.30:99/dxxw.php?id=hnxc
 河南象视界,http://49.232.131.30:99/dxxw.php?id=xsj
