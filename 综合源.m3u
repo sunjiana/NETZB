@@ -1601,7 +1601,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5897056882324761054/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中国功夫.png" group-title="影视频道",中国功夫
 http://[2409:8087:74d9:21::6]/270000001128/9900000101/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="港澳频道",AMC电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台[无声].png" group-title="港澳频道",AMC电影台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv017
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CAT电影台.png" group-title="港澳频道",CAT电影台
 https://litv.zapi.us.kg/?id=4gtv-4gtv076
@@ -1611,15 +1611,15 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv039
 https://litv.zapi.us.kg/?id=4gtv-4gtv049
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/非凡新闻台.png" group-title="港澳频道",非凡新闻台
 https://litv.zapi.us.kg/?id=4gtv-4gtv010
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/公视戏剧台.png" group-title="港澳频道",公视戏剧台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/公视戏剧台[无声].png" group-title="港澳频道",公视戏剧台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv042
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视闽南台.png" group-title="港澳频道",华视闽南台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视闽南台[无声].png" group-title="港澳频道",华视闽南台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv041
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视新闻台.png" group-title="港澳频道",华视新闻台
 https://litv.zapi.us.kg/?id=4gtv-4gtv052
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/寰宇闽南台.png" group-title="港澳频道",寰宇闽南台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/寰宇闽南台[无声].png" group-title="港澳频道",寰宇闽南台[无声]
 https://litv.zapi.us.kg/?id=litv-longturn15
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大精彩台.png" group-title="港澳频道",八大精彩台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大精彩台[无声].png" group-title="港澳频道",八大精彩台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv034
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png" group-title="港澳频道",靖天电影台
 https://litv.zapi.us.kg/?id=4gtv-4gtv061
@@ -1641,19 +1641,19 @@ https://litv.zapi.us.kg/?id=4gtv-4gtv065
 https://litv.zapi.us.kg/?id=4gtv-4gtv046
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖洋卡通台.png" group-title="港澳频道",靖洋卡通台
 https://litv.zapi.us.kg/?id=4gtv-4gtv057
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧台.png" group-title="港澳频道",靖洋戏剧台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧台[无声].png" group-title="港澳频道",靖洋戏剧台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv045
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影台.png" group-title="港澳频道",龙华电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影台[无声].png" group-title="港澳频道",龙华电影台[无声]
 https://litv.zapi.us.kg/?id=litv-longturn03
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华经典台.png" group-title="港澳频道",龙华经典台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华经典台[无声].png" group-title="港澳频道",龙华经典台[无声]
 https://litv.zapi.us.kg/?id=litv-longturn21
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华卡通台.png" group-title="港澳频道",龙华卡通台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华卡通台[无声].png" group-title="港澳频道",龙华卡通台[无声]
 https://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华偶像台.png" group-title="港澳频道",龙华偶像台
 https://litv.zapi.us.kg/?id=litv-longturn12
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华日韩台.png" group-title="港澳频道",龙华日韩台
 https://litv.zapi.us.kg/?id=litv-longturn11
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台.png" group-title="港澳频道",龙华戏剧台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台[无声].png" group-title="港澳频道",龙华戏剧台[无声]
 https://litv.zapi.us.kg/?id=litv-longturn18
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="港澳频道",民视第一台
 https://litv.zapi.us.kg/?id=4gtv-4gtv003
@@ -1673,11 +1673,11 @@ https://litv.zapi.us.kg/?id=litv-longturn22
 https://litv.zapi.us.kg/?id=4gtv-4gtv072
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/亚洲旅游台.png" group-title="港澳频道",亚洲旅游台
 https://litv.zapi.us.kg/?id=litv-longturn17
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷数位台.png" group-title="港澳频道",影迷数位台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷数位台[无声].png" group-title="港澳频道",影迷数位台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视菁采台.png" group-title="港澳频道",中视菁采台
 https://litv.zapi.us.kg/?id=4gtv-4gtv064
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视闽南台.png" group-title="港澳频道",中视闽南台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视闽南台[无声].png" group-title="港澳频道",中视闽南台[无声]
 https://litv.zapi.us.kg/?id=4gtv-4gtv040
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="港澳频道",中视新闻台
 https://litv.zapi.us.kg/?id=4gtv-4gtv074
