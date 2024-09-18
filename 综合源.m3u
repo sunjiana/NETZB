@@ -1905,6 +1905,8 @@ P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
 P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立新闻台[p2p].png" group-title="港澳频道",三立新闻台[p2p]
 P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森戏剧.png" group-title="港澳频道",东森戏剧
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/49号.png" group-title="港澳频道",49号
 http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/BLOOMBERG.png" group-title="港澳频道",BLOOMBERG
@@ -1997,6 +1999,8 @@ http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 http://37.27.111.214:8080/live/9/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TV5MONDE.png" group-title="港澳频道",TV5MONDE
 http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳频道",TVBS新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TiTV.png" group-title="港澳频道",TiTV
 http://37.27.111.214:8080/live/2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TiTV.png" group-title="港澳频道",TiTV
@@ -2017,10 +2021,14 @@ http://shuma004.chunfengyun.top:8080/live/3/hls.m3u8
 http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/nickjr.png" group-title="港澳频道",nickjr
 http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森财经.png" group-title="港澳频道",东森财经
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森购物.png" group-title="港澳频道",东森购物
 http://37.27.111.214:8080/live/61/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森购物.png" group-title="港澳频道",东森购物
 http://37.27.111.214:8080/live/66/hls.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="港澳频道",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/博斯无限.png" group-title="港澳频道",博斯无限
 http://37.27.111.214:8080/live/15/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/博斯无限.png" group-title="港澳频道",博斯无限
@@ -2035,6 +2043,10 @@ http://37.27.111.214:8080/live/14/hls.m3u8
 http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/博斯高球1.png" group-title="港澳频道",博斯高球1
 http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="港澳频道",年代新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/环宇新闻.png" group-title="港澳频道",环宇新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="湖北频道",武汉教育
 http://stream.appwuhan.com/jyzb/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/武汉经济.png" group-title="湖北频道",武汉经济

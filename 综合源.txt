@@ -955,6 +955,7 @@ TVBS新闻台[p2p],P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2
 民视第一台[p2p],P2p://generationnexxxt.com:19806/3a4000096c084c79af219586be8ed979
 年代新闻[p2p],P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
 三立新闻台[p2p],P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
+东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 49号,http://61.221.215.25:8800/hls/49/index.m3u8
 BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
 BLOOMBERG,http://shuma004.chunfengyun.top:8080/live/34/hls.m3u8
@@ -1001,6 +1002,7 @@ TECHSTORM,http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM,http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE,http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 TiTV,http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
 VOA,http://37.27.111.214:8080/live/45/hls.m3u8
@@ -1011,8 +1013,10 @@ momo,http://37.27.111.214:8080/live/3/hls.m3u8
 momo,http://shuma004.chunfengyun.top:8080/live/3/hls.m3u8
 nhkworld,http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森购物,http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物,http://37.27.111.214:8080/live/66/hls.m3u8
+凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
 博斯无限,http://shuma004.chunfengyun.top:8080/live/15/hls.m3u8
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8
@@ -1020,6 +1024,8 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 博斯运动1,http://37.27.111.214:8080/live/14/hls.m3u8
 博斯运动1,http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
 博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
+环宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
 湖北频道,#genre#
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
