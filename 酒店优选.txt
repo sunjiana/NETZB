@@ -95,7 +95,7 @@ elta生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 热播剧场,http://1.69.113.112:9902/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 热播剧场,http://123.10.76.226:808/hls/82/index.m3u8?$智慧光迅听说名字越长越好看
 热播剧场,http://123.10.76.84:808/hls/82/index.m3u8?$智慧光迅听说名字越长越好看
-热播剧场,http://171.8.247.168:808/hls/71/index.m3u8?$智慧光迅听说名字越长越好看
+热播剧场,http://171.8.244.71:808/hls/71/index.m3u8?$智慧光迅听说名字越长越好看
 山西影视,http://1.69.113.112:9902/tsfile/live/1005_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 深圳影视,http://171.110.10.19:8181/tsfile/live/1113_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 武侠剧场,http://1.69.113.112:9902/tsfile/live/1027_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
