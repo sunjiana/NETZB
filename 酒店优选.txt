@@ -80,13 +80,13 @@ elta生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 精选,http://1.69.113.112:9902/tsfile/live/1022_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 热播剧场,http://1.69.113.112:9902/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 热播剧场,http://123.10.76.226:808/hls/82/index.m3u8?$智慧光迅听说名字越长越好看
-热播剧场,http://61.52.159.8:808/hls/71/index.m3u8?$智慧光迅听说名字越长越好看
+热播剧场,http://219.156.119.54:808/hls/71/index.m3u8?$智慧光迅听说名字越长越好看
 山西影视,http://1.69.113.112:9902/tsfile/live/1005_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 武侠剧场,http://1.69.113.112:9902/tsfile/live/1027_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 喜剧影院,http://1.69.113.112:9902/tsfile/live/1023_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 星影,http://1.69.113.112:9902/tsfile/live/1026_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 影迷电影,http://1.69.113.112:9902/tsfile/live/1028_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-影视,http://61.52.159.8:808/hls/21/index.m3u8?$智慧光迅听说名字越长越好看
+影视,http://219.156.119.54:808/hls/21/index.m3u8?$智慧光迅听说名字越长越好看
 影院,http://123.10.76.226:808/hls/98/index.m3u8?$智慧光迅听说名字越长越好看
 珠江电影,http://119.125.104.180:9901/tsfile/live/1040_1.m3u8?$不见黄河心不死=txiptv&playlive=1&down=1
 珠江电影,http://119.125.104.51:9901/tsfile/live/1040_1.m3u8?$不见黄河心不死=txiptv&playlive=1&down=1
