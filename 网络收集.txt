@@ -68,6 +68,8 @@ tvbs新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
 
 B1,#genre#
 AMC电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv017
+CATCHPLAY电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv076
+ELTA生活旅游,https://gat.zhoujie218.top/4gtv/237
 Fun探索娱乐台,https://gat.zhoujie218.top/4gtv/274
 GreatMovies,https://gat.zhoujie218.top/beesport/UK_Great_Movies_Live_TV
 MTVLive音乐,https://gat.zhoujie218.top/4gtv/213
@@ -258,13 +260,11 @@ Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
 凤凰中文国,http://8.137.59.151:3009/TV2/gat.php?id=1
 凤凰资讯国,http://8.137.59.151:3009/TV2/gat.php?id=2
 华视闽南,http://8.137.59.151:3009/TV2/gat.php?id=44
-华视新闻,http://8.137.59.151:3009/TV2/gat.php?id=109
 寰宇新闻,http://8.137.59.151:3009/TV2/gat.php?id=47
 龙华偶像,http://8.137.59.151:3009/TV2/gat.php?id=64
 龙祥时代,http://8.137.59.151:3009/TV2/gat.php?id=77
 美亚电影国,http://8.137.59.151:3009/TV2/gat.php?id=78
 美亚电影粤,http://8.137.59.151:3009/TV2/gat.php?id=18
-闽南综艺,http://8.137.59.151:3009/TV2/gat.php?id=61
 民视闽南,http://8.137.59.151:3009/TV2/gat.php?id=41
 三立新闻,http://8.137.59.151:3009/TV2/gat.php?id=49
 三立综合,http://8.137.59.151:3009/TV2/gat.php?id=75
@@ -283,8 +283,6 @@ Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
 中视闽南,http://8.137.59.151:3009/TV2/gat.php?id=42
 中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50
 中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=51
-中天新闻,http://8.137.59.151:3009/TV2/gat.php?id=40
-猪哥亮歌厅,http://8.137.59.151:3009/TV2/gat.php?id=108
 
 F1,#genre#
 MTV,http://37.27.111.214:8080/live/25/hls.m3u8
