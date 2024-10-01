@@ -182,7 +182,6 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 龙华卡通,https://gat.zhoujie218.top/litv/litv-longturn01
 龙华偶像,https://gat.zhoujie218.top/litv/litv-longturn12
 龙华日韩,https://gat.zhoujie218.top/litv/litv-longturn11
-龙华戏剧,https://gat.zhoujie218.top/litv/litv-longturn18
 民视,https://gat.zhoujie218.top/litv/4gtv-4gtv002
 民视,https://gat.zhoujie218.top/litv/4gtv-4gtv155
 民视第一台,https://gat.zhoujie218.top/litv/4gtv-4gtv003
@@ -192,8 +191,6 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 民视新闻台,https://gat.zhoujie218.top/litv/litv-ftv13
 民视影剧,https://gat.zhoujie218.top/litv/litv-ftv09
 民视综艺,https://gat.zhoujie218.top/litv/4gtv-4gtv004
-人间卫视,https://gat.zhoujie218.top/4gtv/210
-三立新闻,https://gat.zhoujie218.top/4gtv/229
 三立综合台,https://gat.zhoujie218.top/4gtv/169
 台视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv051
 台湾戏剧台,https://gat.zhoujie218.top/litv/litv-longturn22
@@ -449,4 +446,11 @@ tvbs新闻,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv072
 中天新闻,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv009
 中天亚洲,http://222.186.57.43:22222/php/jspd.php?id=47
 猪哥亮歌厅台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv006
+
+H1,#genre#
+TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
+东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
 
