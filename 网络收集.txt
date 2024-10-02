@@ -163,7 +163,6 @@ TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073
 寰宇财经台,https://gat.zhoujie218.top/litv/litv-longturn23
 寰宇新闻台,https://gat.zhoujie218.top/litv/litv-longturn14
 寰宇新闻台湾台,https://gat.zhoujie218.top/litv/litv-longturn15
-经典电影台,https://gat.zhoujie218.top/4gtv/201
 靖天电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv061
 靖天欢乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv054
 靖天卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv044
