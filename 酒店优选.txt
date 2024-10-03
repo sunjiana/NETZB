@@ -15,11 +15,23 @@ TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 
 影视频道,#genre#
-HNTV5影视,http://42.237.182.25:7000/hls/80/index.m3u8?$智慧光迅听说名字越长越好看
 第一剧场,http://139.209.39.206:9901/tsfile/live/1025_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+谍战剧场,http://1.69.66.221:9902/tsfile/live/1019_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+动作电影,http://1.69.66.221:9902/tsfile/live/1029_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+动作影院,http://1.69.66.221:9902/tsfile/live/1024_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 风云剧场,http://139.209.39.206:9901/tsfile/live/1034_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 怀旧剧场,http://139.209.39.206:9901/tsfile/live/1026_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 吉林影视,http://139.209.39.206:9901/tsfile/live/1006_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭影院,http://1.69.66.221:9902/tsfile/live/1025_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭影院,http://1.69.66.221:9902/tsfile/live/1030_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 家庭影院,http://139.209.39.206:9901/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+经典电影,http://1.69.66.221:9902/tsfile/live/1017_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+精选,http://1.69.66.221:9902/tsfile/live/1022_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+热播剧场,http://1.69.66.221:9902/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+山西影视,http://1.69.66.221:9902/tsfile/live/1005_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+武侠剧场,http://1.69.66.221:9902/tsfile/live/1027_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+喜剧影院,http://1.69.66.221:9902/tsfile/live/1023_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+星影,http://1.69.66.221:9902/tsfile/live/1026_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+影迷电影,http://1.69.66.221:9902/tsfile/live/1028_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 影迷电影,http://139.209.39.206:9901/tsfile/live/1015_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 长影,http://139.209.39.206:9901/tsfile/live/1010_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
