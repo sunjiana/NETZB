@@ -407,17 +407,3 @@ tvbs新闻,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv072
 中天亚洲,http://222.186.57.43:22222/php/jspd.php?id=47
 猪哥亮歌厅台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv006
 
-H1,#genre#
-东森财经,http://tw.ts138.top/4g/?id=4gtv-4gtv153
-华视闽南,http://tw.ts138.top/4g/?id=4gtv-4gtv041
-靖天电影,http://tw.ts138.top/4g/?id=4gtv-4gtv061
-靖天欢乐,http://tw.ts138.top/4g/?id=4gtv-4gtv054
-靖天戏剧,http://tw.ts138.top/4g/?id=4gtv-4gtv058
-靖洋卡通,http://tw.ts138.top/4g/?id=4gtv-4gtv057
-龙华电影,http://tw.ts138.top/4g/?id=litv-longturn03
-闽镜新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv075
-闽南戏剧,http://tw.ts138.top/4g/?id=litv-longturn22
-民视台湾,http://tw.ts138.top/4g/?id=4gtv-4gtv001
-中视新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv074
-中天新闻,http://tw.ts138.top/4g/?id=4gtv-4gtv009
-
