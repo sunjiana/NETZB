@@ -14,3 +14,4 @@ TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 
 影视频道,#genre#
+峨眉电影[50FPS],http://61.157.139.15:9901/tsfile/live/2396_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
