@@ -54,43 +54,6 @@ VIUTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
 B1,#genre#
-AMC电影,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcZV67jO8398u3G8l7lkzfQ0/m3u8
-AXN电影,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcQ-owm34LOq38OkCYS1z_ow/m3u8
-Now新闻频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcZ6vhESvqhdDKDq7Qm4gbg4/m3u8
-Plus无线频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcf19po4j2QHAZ4GeK3Y-x8k/m3u8
-TVB剧集频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcTR6Ve_XPW1ca4pw-cQgqZs/m3u8
-TVB1_综台粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcYY87vyPY86U8C2Xct9geho/m3u8
-TVBJ1综台粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcVAgr95BNTUeE-mQfybsBCg/m3u8
-TVBe_综台粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcXmYu1ePopv0NARJJcIsGhY/m3u8
-凤凰香港频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcfkw4ic9gzeVq0GSkwsCoA0/m3u8
-凤凰中文频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcaKE9paz4e1p1bEKpHcqjic/m3u8
-凤凰资讯频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcaUnDfeCMObIR1FH6T6G5Tw/m3u8
-美亚电影港粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcZqa1R1Liivs7l05oZGc5OY/m3u8
-美亚电影闽国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQccP-581hI5zQbLAvDbmURg8/m3u8
-now星影频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcdfHjon5n3xaC6Xloe8SiOg/m3u8
-神州新闻频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQccCofctV5qZP1VNfzuVI8H0/m3u8
-天映经典频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcUe5zj5ngq0MoHdATPxTCks/m3u8
-天映频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcbign-ZGya7XZgQJIG4O7CQ/m3u8
-天映频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcT1ExNwLAyVzkei3Mq5Kqmg/m3u8
-天映印尼,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQccY-uJNcOM1ahlvPFEUqquk/m3u8
-无线翡翠频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcQCe0BiSo5fnFWPUJPIkkUc/m3u8
-无线功夫频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcdTXxi6aEKiEKwhrPLonxaQ/m3u8
-无线华剧频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcZJS8RpT5ffINoBnfse98Bc/m3u8
-无线华丽频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcT2karp1Dd2pOUUR0svY-gM/m3u8
-无线明珠频英,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcVxtSW9QEZIVLSGEw_YnxKs/m3u8
-无线赛马频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcc1q5ADpuANuDDT7F6jwf34/m3u8
-无线少儿频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcYD8L2gmLFPB5bI7tGlkbK8/m3u8
-无线新闻频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcUouXiCsjW6t5wEhautUQGo/m3u8
-无线星河频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcXsvXd2UpfzIlrZ3hs1OFkc/m3u8
-无线星河频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcStBxXUJYc2TM-VUwu4Dwr0/m3u8
-无线亚剧频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcUXoZhzZXaCbhB6I9PAUScU/m3u8
-无线娱乐频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcfKoqz9i2nGlILl5gHZ-fXw/m3u8
-无线粤语片台,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcWc2T6i0g4NIvKJQdp8pAvo/m3u8
-香港卫视频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcfrDV8dNH-6UeeosC6tbYF0/m3u8
-有线新闻频粤,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcVvdRJPTz-6ln_stggmnzYM/m3u8
-中天新闻频国,http://38.75.136.226:35451/play/zQa_YGfKuiPV806RD3jQcQmBbYquY4oExk2niXClR2U/m3u8
-
-C1,#genre#
 AMC电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
 CAT电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv076
 GLo-Bet台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
@@ -171,7 +134,7 @@ tvbs新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
 中天新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv006
 
-D1,#genre#
+C1,#genre#
 AMC电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
@@ -279,7 +242,7 @@ tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 猪哥亮歌厅台,http://litv.zapi.us.kg/?id=4gtv-4gtv006
 猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 
-E1,#genre#
+D1,#genre#
 AXN绱㈠凹锷ㄤ綔鐢靛奖,http://ub.k.vu:8080/inc/golive.php?id=31
 CelestialMovies澶╂椠棰戦亾,http://ub.k.vu:8080/inc/golive.php?id=23
 TVB浜𣱝床鍓у彴,http://ub.k.vu:8080/inc/golive.php?id=36
@@ -302,7 +265,7 @@ TVB-J1,http://ub.k.vu:8080/inc/golive.php?id=41
 TVBSUPER-FREE,http://ub.k.vu:8080/inc/golive.php?id=17
 TVBplus,http://ub.k.vu:8080/inc/golive.php?id=6
 
-F1,#genre#
+E1,#genre#
 BBC新闻,http://8.137.59.151:3009/TV2/gat.php?id=95
 ELT-影剧,http://8.137.59.151:3009/TV2/gat.php?id=76
 Now新闻,http://8.137.59.151:3009/TV2/gat.php?id=19
@@ -340,19 +303,7 @@ Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
 中天新闻,http://8.137.59.151:3009/TV2/gat.php?id=40
 猪哥亮歌厅,http://8.137.59.151:3009/TV2/gat.php?id=108
 
-G1,#genre#
-MTV,http://37.27.111.214:8080/live/25/hls.m3u8
-TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-三立,http://37.27.111.214:8080/live/31/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
-
-H1,#genre#
+F1,#genre#
 TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068
 TVBS新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv072
 TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
@@ -378,7 +329,6 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 靖天综合,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv046
 靖洋卡通,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv057
 靖洋戏剧,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv045
-龙华卡通,http://23.224.49.18:8866/haiou.php?id=litv-longturn01
 龙华偶像,http://23.224.49.18:8866/haiou.php?id=litv-longturn12
 龙华日韩,http://23.224.49.18:8866/haiou.php?id=litv-longturn11
 闽镜新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv075
@@ -395,11 +345,10 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 戏剧,http://23.224.49.18:8866/haiou.php?id=litv-longturn22
 中视,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv040
 中视经典,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv080
-中视新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv074
 中天新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
-I1,#genre#
+G1,#genre#
 八大精彩,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
@@ -451,7 +400,7 @@ tvbs新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072
 中天新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv006
 
-J1,#genre#
+H1,#genre#
 cNN新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=57
 东森财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=23
 东森超视,http://8.137.59.151:3000/laoshu1.php?key=6666&id=56
