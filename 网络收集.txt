@@ -492,11 +492,3 @@ tvbs新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=29
 中天新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=21
 中天亚洲,http://8.137.59.151:3000/laoshu1.php?key=6666&id=46
 
-K1,#genre#
-东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-
