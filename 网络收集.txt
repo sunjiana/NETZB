@@ -254,7 +254,6 @@ TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
