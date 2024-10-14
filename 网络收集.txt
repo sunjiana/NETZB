@@ -334,7 +334,6 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 台视新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv051
 戏剧,http://23.224.49.18:8866/haiou.php?id=litv-longturn22
 中视,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv040
-中视经典,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv080
 中天新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
