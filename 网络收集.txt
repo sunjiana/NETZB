@@ -52,52 +52,6 @@ TVBPlus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
 B1,#genre#
-AMC电影,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1032
-Nhk新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1027
-八大第一,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1043
-八大戏剧,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1057
-八大综合,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1019
-大爱电视,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1216
-东森财经,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1017
-东森超视,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1180
-东森戏剧,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1042
-东森新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1014
-东森幼幼,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1008
-东森综合,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1041
-非凡新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1013
-凤凰中文,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1213
-凤凰资讯,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1666
-公视闽南,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1201
-华视闽南,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1049
-寰宇新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1222
-龙华电影,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1677
-龙华卡通,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1670
-龙华偶像剧,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1673
-龙华日韩剧,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1672
-龙华戏剧,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1671
-旅游生活,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1005
-闽镜新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1031
-民视新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1204
-闽壹新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1676
-年代新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1192
-人间卫视,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1198
-三立都会,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1020
-三立闽南,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1021
-三立新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1016
-tvbs新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1052
-纬来电影,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1183
-纬来日本,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1026
-纬来体育,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1011
-纬来戏剧,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1186
-纬来育乐,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1045
-纬来综合,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1044
-亚洲旅游,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1219
-中视闽南,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1048
-中天新闻,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1675
-中天娱乐,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1023
-中天综合,https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1022
-
-C1,#genre#
 AMC电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
 CAT电影台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv076
 GLo-Bet台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
@@ -178,7 +132,7 @@ tvbs新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
 中天新闻台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv006
 
-D1,#genre#
+C1,#genre#
 AMC电影台,http://litv.zapi.us.kg/4g/?id=4gtv-4gtv017
 AMC电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
@@ -339,7 +293,7 @@ tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 猪哥亮歌厅秀,http://litv.zapi.us.kg/4g/?id=4gtv-4gtv006
 猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 
-E1,#genre#
+D1,#genre#
 AXN绱㈠凹锷ㄤ綔鐢靛奖,http://ub.k.vu:8080/inc/golive.php?id=31
 CelestialMovies澶╂椠棰戦亾,http://ub.k.vu:8080/inc/golive.php?id=23
 TVB浜𣱝床鍓у彴,http://ub.k.vu:8080/inc/golive.php?id=36
@@ -362,7 +316,7 @@ TVB-J1,http://ub.k.vu:8080/inc/golive.php?id=41
 TVBSUPER-FREE,http://ub.k.vu:8080/inc/golive.php?id=17
 TVBplus,http://ub.k.vu:8080/inc/golive.php?id=6
 
-F1,#genre#
+E1,#genre#
 BBC新闻,http://8.137.59.151:3009/TV2/gat.php?id=95
 ELT-影剧,http://8.137.59.151:3009/TV2/gat.php?id=76
 Now新闻,http://8.137.59.151:3009/TV2/gat.php?id=19
@@ -400,7 +354,7 @@ Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
 中天新闻,http://8.137.59.151:3009/TV2/gat.php?id=40
 猪哥亮歌厅,http://8.137.59.151:3009/TV2/gat.php?id=108
 
-G1,#genre#
+F1,#genre#
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
@@ -426,7 +380,7 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
-H1,#genre#
+G1,#genre#
 TVBS新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv072
 TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 八大精彩,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv034
@@ -466,7 +420,7 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 中天新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
-I1,#genre#
+H1,#genre#
 八大精彩,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
@@ -518,7 +472,7 @@ tvbs新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072
 中天新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv006
 
-J1,#genre#
+I1,#genre#
 cNN新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=57
 东森财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=23
 东森超视,http://8.137.59.151:3000/laoshu1.php?key=6666&id=56
