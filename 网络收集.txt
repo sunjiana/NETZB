@@ -357,6 +357,26 @@ Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
 猪哥亮歌厅,http://8.137.59.151:3009/TV2/gat.php?id=108
 
 F1,#genre#
+TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台泰国,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+三立综合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+
+G1,#genre#
 TVBS新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv072
 TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 八大精彩,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv034
@@ -395,7 +415,7 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 中天新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
-G1,#genre#
+H1,#genre#
 八大精彩,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
@@ -447,7 +467,7 @@ tvbs新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072
 中天新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv006
 
-H1,#genre#
+I1,#genre#
 cNN新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=57
 东森财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=23
 东森超视,http://8.137.59.151:3000/laoshu1.php?key=6666&id=56
@@ -488,7 +508,7 @@ tvbs新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=29
 中天新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=21
 中天亚洲,http://8.137.59.151:3000/laoshu1.php?key=6666&id=46
 
-I1,#genre#
+J1,#genre#
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
