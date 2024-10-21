@@ -295,29 +295,6 @@ tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
 
 D1,#genre#
-AXN绱㈠凹锷ㄤ綔鐢靛奖,http://ub.k.vu:8080/inc/golive.php?id=31
-CelestialMovies澶╂椠棰戦亾,http://ub.k.vu:8080/inc/golive.php?id=23
-TVB浜𣱝床鍓у彴,http://ub.k.vu:8080/inc/golive.php?id=36
-TVB濞变箰鏂伴椈鍙�,http://ub.k.vu:8080/inc/golive.php?id=8
-TVB缈＄繝鍙�,http://ub.k.vu:8080/inc/golive.php?id=4
-TVB绮よ鐗囧彴,http://ub.k.vu:8080/inc/golive.php?id=37
-TVB姝﹀姛鍙扮菠璇�,http://ub.k.vu:8080/inc/golive.php?id=20
-TVB鍗幂Η缍揿吀鍙�,http://ub.k.vu:8080/inc/golive.php?id=12
-TVB鍗庤鍓у彴,http://ub.k.vu:8080/inc/golive.php?id=14
-TVB鏄熸渤棰戦亾,http://ub.k.vu:8080/inc/golive.php?id=9
-TVB鏄庣录锲介台鍙�,http://ub.k.vu:8080/inc/golive.php?id=7
-TVB鎴忔洸鍙�,http://ub.k.vu:8080/inc/golive.php?id=13
-TVB榛勯噾缈＄繝鍙�,http://ub.k.vu:8080/inc/golive.php?id=10
-TVB榛勯噾鍗庡墽鍙�,http://ub.k.vu:8080/inc/golive.php?id=11
-TVB镞犵嚎鏂伴椈鍙�,http://ub.k.vu:8080/inc/golive.php?id=5
-TVB-1,http://ub.k.vu:8080/inc/golive.php?id=38
-TVB-Drama,http://ub.k.vu:8080/inc/golive.php?id=40
-TVB-E,http://ub.k.vu:8080/inc/golive.php?id=39
-TVB-J1,http://ub.k.vu:8080/inc/golive.php?id=41
-TVBSUPER-FREE,http://ub.k.vu:8080/inc/golive.php?id=17
-TVBplus,http://ub.k.vu:8080/inc/golive.php?id=6
-
-E1,#genre#
 BBC新闻,http://8.137.59.151:3009/TV2/gat.php?id=95
 ELT-影剧,http://8.137.59.151:3009/TV2/gat.php?id=76
 Now新闻,http://8.137.59.151:3009/TV2/gat.php?id=19
@@ -355,7 +332,7 @@ Plus无线,http://8.137.59.151:3009/TV2/gat.php?id=6
 中天新闻,http://8.137.59.151:3009/TV2/gat.php?id=40
 猪哥亮歌厅,http://8.137.59.151:3009/TV2/gat.php?id=108
 
-F1,#genre#
+E1,#genre#
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -376,7 +353,7 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
-G1,#genre#
+F1,#genre#
 TVBS新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv072
 TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 八大精彩,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv034
@@ -414,7 +391,7 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 中天新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
-H1,#genre#
+G1,#genre#
 八大精彩,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
@@ -466,7 +443,7 @@ tvbs新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072
 中天新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv006
 
-I1,#genre#
+H1,#genre#
 cNN新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=57
 东森财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=23
 东森超视,http://8.137.59.151:3000/laoshu1.php?key=6666&id=56
@@ -507,7 +484,7 @@ tvbs新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=29
 中天新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=21
 中天亚洲,http://8.137.59.151:3000/laoshu1.php?key=6666&id=46
 
-J1,#genre#
+I1,#genre#
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
