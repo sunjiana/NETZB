@@ -381,7 +381,6 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 民视,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv155
 民视第一,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv003
 民视旅游,http://23.224.49.18:8866/haiou.php?id=litv-ftv07
-民视台湾,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv001
 民视台湾,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv156
 民视新闻,http://23.224.49.18:8866/haiou.php?id=litv-ftv13
 民视影剧,http://23.224.49.18:8866/haiou.php?id=litv-ftv09
