@@ -486,14 +486,6 @@ tvbs新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=29
 中天亚洲,http://8.137.59.151:3000/laoshu1.php?key=6666&id=46
 
 H1,#genre#
-东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-
-I1,#genre#
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -503,4 +495,11 @@ I1,#genre#
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 中视闽南,http://37.27.111.214:8080/live/7/hls.m3u8
 猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
+
+I1,#genre#
+凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 
