@@ -1,6 +1,7 @@
 港澳频道,#genre#
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
+吉林综艺,http://139.209.39.179:9901/tsfile/live/1003_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
 民视闽南,http://37.27.111.214:8080/live/6/hls.m3u8
@@ -10,3 +11,11 @@
 猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
 
 影视频道,#genre#
+第一剧场,http://139.209.39.179:9901/tsfile/live/1025_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+风云剧场,http://139.209.39.179:9901/tsfile/live/1034_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+怀旧剧场,http://139.209.39.179:9901/tsfile/live/1026_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+吉林影视,http://139.209.39.179:9901/tsfile/live/1006_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+家庭影院,http://139.209.39.179:9901/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+科教影视,http://101.65.32.9:9901/tsfile/live/1005_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
+影迷电影,http://139.209.39.179:9901/tsfile/live/1015_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+长影,http://139.209.39.179:9901/tsfile/live/1010_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
