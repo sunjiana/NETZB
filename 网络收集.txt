@@ -22,7 +22,6 @@ TVBPlus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 B1,#genre#
@@ -51,7 +50,6 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 华视新闻,http://23.224.49.18:8866/7768a.php?id=4gtv-4gtv052
 华视新闻,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv052
 寰宇,http://23.224.49.18:8866/haiou.php?id=litv-longturn15
-寰宇新闻,http://23.224.49.18:8866/7768a.php?id=litv-longturn14
 寰宇新闻,http://23.224.49.18:8866/haiou.php?id=litv-longturn14
 寰宇新闻台湾台,http://23.224.49.18:8866/7768a.php?id=litv-longturn15
 靖天,http://23.224.49.18:8866/7768a.php?id=4gtv-4gtv063
