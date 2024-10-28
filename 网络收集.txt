@@ -328,13 +328,6 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
 F1,#genre#
-TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-
-G1,#genre#
 八大精彩,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
@@ -386,7 +379,7 @@ tvbs新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072
 中天新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv006
 
-H1,#genre#
+G1,#genre#
 cNN新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=57
 东森财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=23
 东森超视,http://8.137.59.151:3000/laoshu1.php?key=6666&id=56
