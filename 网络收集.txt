@@ -1,6 +1,11 @@
 A1,#genre#
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=tvbxinhe_twn
+TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVBPlus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
@@ -13,6 +18,7 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 福建少儿,http://php.jdshipin.com:8880/fujian.php?id=8
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -326,6 +332,15 @@ TVBS,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv073
 猪哥亮歌厅台,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv006
 
 F1,#genre#
+TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
+东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
+凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+
+G1,#genre#
 八大精彩,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
@@ -377,7 +392,7 @@ tvbs新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072
 中天新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009
 猪哥亮歌厅台,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv006
 
-G1,#genre#
+H1,#genre#
 cNN新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=57
 东森财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=23
 东森超视,http://8.137.59.151:3000/laoshu1.php?key=6666&id=56
