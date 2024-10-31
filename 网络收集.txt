@@ -295,7 +295,6 @@ E1,#genre#
 八大综艺,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039
 半岛新闻,http://serv00.bkpcp.top/litv3.php?id=litv-ftv10
 采昌影剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv049
-东森财经,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv153
 东森新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv152
 非凡新闻,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv010
 公视戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv042
