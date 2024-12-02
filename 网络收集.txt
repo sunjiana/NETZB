@@ -247,8 +247,6 @@ D1,#genre#
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 
