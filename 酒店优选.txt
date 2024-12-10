@@ -1,0 +1,4 @@
+影视频道,#genre#
+都市剧场,http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+峨眉电影[50FPS],http://61.157.139.15:9901/tsfile/live/2396_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+上海影视,http://61.173.144.157:9901/tsfile/live/1013_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
