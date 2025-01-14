@@ -5,5 +5,4 @@
 家庭影院,http://42.53.32.247:9902/tsfile/live/1014_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 辽宁影视,http://42.53.32.247:9902/tsfile/live/1001_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 上海影视,http://61.173.144.157:9901/tsfile/live/1013_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-四川影视,http://118.122.189.74:9901/tsfile/live/0123_4.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 影迷电影,http://42.53.32.247:9902/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
