@@ -1,15 +1,11 @@
 影视频道,#genre#
 爱大剧,http://123.10.79.61:808/hls/101/index.m3u8?$智慧光迅听说名字越长越好看
 谍战剧场,http://123.10.79.61:808/hls/80/index.m3u8?$智慧光迅听说名字越长越好看
-动作电影,http://42.53.32.247:9902/tsfile/live/1015_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 动作影院,http://123.10.79.61:808/hls/97/index.m3u8?$智慧光迅听说名字越长越好看
 都市剧场,http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 峨眉电影[50FPS],http://61.157.139.15:9901/tsfile/live/2396_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 家庭影院,http://123.10.79.61:808/hls/99/index.m3u8?$智慧光迅听说名字越长越好看
-家庭影院,http://42.53.32.247:9902/tsfile/live/1014_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 经典电影,http://123.10.79.61:808/hls/79/index.m3u8?$智慧光迅听说名字越长越好看
-辽宁影视,http://42.53.32.247:9902/tsfile/live/1001_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 热播剧场,http://123.10.79.61:808/hls/82/index.m3u8?$智慧光迅听说名字越长越好看
 上海影视,http://61.173.144.157:9901/tsfile/live/1013_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-影迷电影,http://42.53.32.247:9902/tsfile/live/1016_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 影院,http://123.10.79.61:808/hls/98/index.m3u8?$智慧光迅听说名字越长越好看
