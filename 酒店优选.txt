@@ -1,10 +1,5 @@
 影视频道,#genre#
-第一剧场,http://180.213.174.225:9901/tsfile/live/1048_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-都市剧场,http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-风云剧场,http://180.213.174.225:9901/tsfile/live/1050_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-欢笑剧场,http://180.213.174.225:9901/tsfile/live/1036_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-天津影视,http://180.213.174.225:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-影迷电影,http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+谍战剧场,http://182.114.189.5:9901/tsfile/live/1025_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+经典电影,http://182.114.189.5:9901/tsfile/live/1024_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+热播剧场,http://219.137.203.129:9901/tsfile/live/1008_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+影视,http://182.113.6.87:9901/tsfile/live/0109_6.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
