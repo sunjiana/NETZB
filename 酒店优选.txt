@@ -1,5 +1,0 @@
-影视频道,#genre#
-谍战剧场,http://182.114.189.5:9901/tsfile/live/1025_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-经典电影,http://182.114.189.5:9901/tsfile/live/1024_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-热播剧场,http://219.137.203.129:9901/tsfile/live/1008_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
-影视,http://182.113.6.87:9901/tsfile/live/0109_6.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
