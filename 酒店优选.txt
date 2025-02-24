@@ -1,0 +1,4 @@
+影视频道,#genre#
+重庆影视超,http://27.14.35.224:9901/tsfile/live/1001_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+经典电影,http://27.14.35.224:9901/tsfile/live/1005_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+科教影视,http://123.159.132.28:9901/tsfile/live/1005_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
