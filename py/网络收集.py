@@ -24,21 +24,21 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'https://dimaston.github.io/live.m3u',  #假m3u
-       'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',   #暂时保留
+       'http://8.138.7.223/live.txt',  #假m3u
+       'http://live.nctv.top/x.txt',   #暂时保留
        'http://117.72.68.25:9230/latest.txt',
-       'http://ttkx.live:55/lib/kx2024.txt',
-       'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
-       'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
+       'http://rihou.cc:55/lib/kx2024.txt',
+       'https://raw.bgithub.xyz/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
+       'https://raw.bgithub.xyz/Fairy8o/IPTV/main/PDX-V4.txt',
        'http://gg.gg/cctvgg',
-       'https://raw.githubusercontent.com/ddhola/file/d7afb504b1ba4fef31813e1166cb892215a9c063/0609test',
-       'https://raw.githubusercontent.com/vbskycn/iptv/2738b3bec8c298f57e0e2052b155846ab6ea3787/dsyy/hd.txt',
-       'https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/TW.txt',
-       'https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/main/list.%E8%87%AA%E7%94%A8',
+       'https://raw.bgithub.xyz/ddhola/file/d7afb504b1ba4fef31813e1166cb892215a9c063/0609test',
+       'https://raw.bgithub.xyz/vbskycn/iptv/2738b3bec8c298f57e0e2052b155846ab6ea3787/dsyy/hd.txt',
+       'https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/TW.txt',
+       'https://raw.bgithub.xyz/ljlfct01/ljlfct01.github.io/main/list.%E8%87%AA%E7%94%A8',
        'https://notabug.org/qcfree/TVBox-api/raw/main/live.txt', #通用源
        'https://47.93.222.173/gonglijun010/ys0826/-/raw/05f5829362d550d96c6c3196b3451b6a3effde67/fmml_ipv4_0206.txt?inline=false',
        'https://notabug.org/bxtv/a/raw/master/315.txt',
-       'https://raw.githubusercontent.com/xiangjiao169/yf2025/main/yf169.txt',
+       'https://raw.bgithub.xyz/xiangjiao169/yf2025/main/yf169.txt',
        'http://ttkx.live:55/lib/kx2024.txt',   #天天开心
        '',    
        '',
