@@ -30,12 +30,10 @@ B1,#genre#
 常州新闻,http://live.nctv.top/IQRyoy/jstv.php?id=cz1
 常州新闻,http://live.nctv.top/IQRyoy/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/IQRyoy/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/IQRyoy/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/IQRyoy/bfgd.php?id=635
 丹阳新闻,http://live.nctv.top/IQRyoy/jstv2.php?id=dyxw
 斗鱼影视2,http://live.nctv.top/IQRyoy/douyu.php?id=5875025
 斗鱼影视2,http://live.nctv.top/IQRyoy/dy.php?id=5875025
-斗鱼影视3,http://live.nctv.top/IQRyoy/douyu.php?id=434971
 福建旅游,http://live.nctv.top/IQRyoy/bestv.php?id=fjly
 福建旅游,http://live.nctv.top/IQRyoy/fjtv.php?id=8
 福建新闻,http://live.nctv.top/IQRyoy/bestv.php?id=fjxw
@@ -213,6 +211,7 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 E1,#genre#
 Mytv华语剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=196
+Mytv华语剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=196
 Mytv亚洲剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=197
 Mytv亚洲剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=197
 Now华剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=137
@@ -224,6 +223,7 @@ Now星影国,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=134
 Now星影粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=133
 Now星影粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=133
 ROCK综艺娱乐,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=159
+ROCK综艺娱乐,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=159
 TVB功夫国,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=205
 TVB功夫国,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=205
 TVB功夫粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=204
@@ -235,6 +235,7 @@ TVB千禧经典,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=209
 TVB生活台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=226
 TVB生活台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=226
 TVB无线新闻台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=224
+TVB无线新闻台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=224
 TVB星河国,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=227
 TVB星河国,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=227
 TVB星河粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=228
@@ -246,6 +247,7 @@ TVBPlus,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=223
 翡翠台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=126
 翡翠台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=126
 翡翠台美加·东岸时区,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=219
+翡翠台美加·东岸时区,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=219
 翡翠台美加·西岸时区,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=220
 翡翠台美加·西岸时区,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=220
 翡翠台欧·新时区,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=221
@@ -257,6 +259,7 @@ TVBPlus,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=223
 凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=123
 凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=123
 凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=124
+凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=124
 黄金华剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=198
 黄金华剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=198
 龙祥时代,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=201
@@ -268,10 +271,12 @@ TVBPlus,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=223
 天映国,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=208
 天映国,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=208
 天映经典,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=206
+天映经典,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=206
 天映粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=207
 天映粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=207
 
 F1,#genre#
+NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/1000000001000025771/ystenlive/index.m3u8
 NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/1000000004000023658/ystenlive/index.m3u8
 NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/1000000006000268002/ystenlive/index.m3u8
 NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/2000000003000000029/hnbblive/index.m3u8
@@ -281,6 +286,7 @@ NewTV金牌综艺,http://6.itv.nctv.top:50001/TVOD/2000000003000000005/hnbblive/
 
 G1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
+八大第一,http://live4play.uk/livehttpplay?channel_id=20073
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
 八大娱乐,http://live4play.uk/livehttpplay?channel_id=20071
 八大综合,http://live4play.uk/livehttpplay?channel_id=20068
