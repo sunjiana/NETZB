@@ -41,7 +41,6 @@ B1,#genre#
 福建新闻,http://live.nctv.top/IQRyoy/bestv.php?id=fjxw
 港剧台1,http://live.nctv.top/IQRyoy/douyu.php?id=338759
 港剧台2,http://live.nctv.top/IQRyoy/douyu.php?id=4549169
-港剧台2,http://live.nctv.top/IQRyoy/dy.php?id=4549169
 港剧台3,http://live.nctv.top/IQRyoy/douyu.php?id=4290711
 港剧台3,http://live.nctv.top/IQRyoy/dy.php?id=4290711
 港剧台4,http://live.nctv.top/IQRyoy/douyu.php?id=45261342
@@ -54,7 +53,6 @@ B1,#genre#
 港剧台8,http://live.nctv.top/IQRyoy/douyu.php?id=7356023
 港剧台8,http://live.nctv.top/IQRyoy/dy.php?id=7356023
 港剧台9,http://live.nctv.top/IQRyoy/douyu.php?id=11922242
-河南新闻,http://live.nctv.top/IQRyoy/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/IQRyoy/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/IQRyoy/jstv.php?id=jsxw
 江苏新闻,http://live.nctv.top/IQRyoy/jstv5.php?id=jsxw
@@ -70,7 +68,6 @@ B1,#genre#
 陕西新闻资讯,http://live.nctv.top/IQRyoy/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/IQRyoy/migu.php?id=shxwzh
 神乐电影,http://live.nctv.top/IQRyoy/douyu.php?id=85894
-神乐电影,http://live.nctv.top/IQRyoy/dy.php?id=85894
 四川文化旅游,http://live.nctv.top/IQRyoy/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/IQRyoy/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/IQRyoy/jstv.php?id=tz1
@@ -301,6 +298,7 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
 非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034
 今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
+龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
 龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
 闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
