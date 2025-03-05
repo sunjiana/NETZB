@@ -214,6 +214,17 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天亚洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 E1,#genre#
+EYE-戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
+东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+龙华偶像,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
+龙华洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
+龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+三立戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+
+F1,#genre#
 Mytv华语剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=196
 Mytv亚洲剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=197
 Mytv亚洲剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=197
@@ -274,7 +285,7 @@ TVBPlus,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=223
 天映粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=207
 天映粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=207
 
-F1,#genre#
+G1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -304,7 +315,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-G1,#genre#
+H1,#genre#
 TVB千禧经典,http://aktv.132.us.kg/AKTV/live/aktv/null-15/AKTV.m3u8
 TVBPlus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
 翡翠台,http://aktv.132.us.kg/AKTV/live/aktv/null/AKTV.m3u8
