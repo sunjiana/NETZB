@@ -211,6 +211,28 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天亚洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 E1,#genre#
+ELTa影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
+Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
+八大综合,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
+东森财经,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
+东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+东森新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
+东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
+东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+公视,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
+龙华电影,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+纬来日本,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+有线新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+中天综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+
+F1,#genre#
 Mytv华语剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=196
 Mytv亚洲剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=197
 Mytv亚洲剧台,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=197
@@ -271,7 +293,7 @@ TVBPlus,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=223
 天映粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56&id=207
 天映粤,http://61.163.58.154:1321/ms/IPTV.php?key=h56h&id=207
 
-F1,#genre#
+G1,#genre#
 NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/1000000001000025771/ystenlive/index.m3u8
 NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/1000000004000023658/ystenlive/index.m3u8
 NewTV超级综艺,http://6.itv.nctv.top:50001/TVOD/1000000006000268002/ystenlive/index.m3u8
@@ -280,7 +302,7 @@ NewTV金牌综艺,http://6.itv.nctv.top:50001/TVOD/1000000004000026167/ystenlive
 NewTV金牌综艺,http://6.itv.nctv.top:50001/TVOD/2000000003000000005/hnbblive/index.m3u8
 热门综艺,http://6.itv.nctv.top:50001/TVOD/5000000011000288011/bestzb/index.m3u8
 
-G1,#genre#
+H1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -310,7 +332,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-H1,#genre#
+I1,#genre#
 TVB千禧经典,http://aktv.132.us.kg/AKTV/live/aktv/null-15/AKTV.m3u8
 TVBPlus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
 翡翠台,http://aktv.132.us.kg/AKTV/live/aktv/null/AKTV.m3u8
