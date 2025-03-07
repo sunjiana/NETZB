@@ -35,7 +35,7 @@ urls = [
        'https://raw.bgithub.xyz/vbskycn/iptv/2738b3bec8c298f57e0e2052b155846ab6ea3787/dsyy/hd.txt',
        'https://raw.bgithub.xyz/frxz751113/AAAAA/main/IPTV/TW.txt',
        'https://raw.bgithub.xyz/ljlfct01/ljlfct01.github.io/main/list.%E8%87%AA%E7%94%A8',
-       'https://notabug.org/qcfree/TVBox-api/raw/main/live.txt', #通用源
+       'https://raw.bgithub.xyz/yangsijian/ipv6zby/refs/heads/main/ipv6.m3u', #通用源
        'https://47.93.222.173/gonglijun010/ys0826/-/raw/05f5829362d550d96c6c3196b3451b6a3effde67/fmml_ipv4_0206.txt?inline=false',
        'https://notabug.org/bxtv/a/raw/master/315.txt',
        'https://raw.bgithub.xyz/xiangjiao169/yf2025/main/yf169.txt',
