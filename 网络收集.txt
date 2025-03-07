@@ -210,6 +210,42 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天亚洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 E1,#genre#
+ELTa影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
+EYE-戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
+八大戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=badadrama
+八大综合,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
+东森财经,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
+东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+东森新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
+东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
+东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
+凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
+公视,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
+寰宇财经,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
+寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+龙华电影,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+龙华偶像,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
+龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+龙华洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
+龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
+三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
+纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+纬来日本,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
+有线新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+娱乐新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbentertainment
+中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+
+F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -241,7 +277,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-F1,#genre#
+G1,#genre#
 TVB千禧经典,http://aktv.132.us.kg/AKTV/live/aktv/null-15/AKTV.m3u8
 TVBPlus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
 翡翠台,http://aktv.132.us.kg/AKTV/live/aktv/null/AKTV.m3u8
@@ -253,7 +289,7 @@ TVBPlus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
 无线新闻,http://aktv.132.us.kg/AKTV/live/aktv/null-1/AKTV.m3u8
 娱乐新闻台,http://aktv.132.us.kg/AKTV/live/aktv/hk/AKTV.m3u8
 
-G1,#genre#
+H1,#genre#
 TVB千禧经典,http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
@@ -265,21 +301,4 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 美亚电影,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 无线新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 娱乐新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-
-H1,#genre#
-Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
-东森财经,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
-东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
-东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
-东森新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
-非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
-凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
-龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
-龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
-民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
-三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
-天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
-纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
-纬来日本,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
-中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
 
