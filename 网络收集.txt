@@ -32,7 +32,6 @@ B1,#genre#
 常州新闻,http://live.nctv.top/IQRyoy/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/IQRyoy/hbtv1.php?id=cd2
 重温经典,http://live.nctv.top/IQRyoy/bfgd.php?id=635
-丹阳新闻,http://live.nctv.top/IQRyoy/jstv2.php?id=dyxw
 斗鱼影视2,http://live.nctv.top/IQRyoy/douyu.php?id=5875025
 斗鱼影视2,http://live.nctv.top/IQRyoy/dy.php?id=5875025
 福建旅游,http://live.nctv.top/IQRyoy/bestv.php?id=fjly
@@ -278,16 +277,4 @@ TVBS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs/AKTV.m3u8
 中视,http://aktv_stream1.m16tv.cfd/stream/aktv/null-10/AKTV.m3u8
 中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-12/AKTV.m3u8
-
-H1,#genre#
-Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
-寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
-龙华偶像,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
-民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
-三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
-天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
-纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
-纬来日本,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
-无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
-中天综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
 
