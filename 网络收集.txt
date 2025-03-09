@@ -33,7 +33,6 @@ B1,#genre#
 常州新闻,http://live.nctv.top/IQRXriyt/jstv.php?id=cz1
 常州新闻,http://live.nctv.top/IQRXriyt/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/IQRXriyt/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/IQRXriyt/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/IQRXriyt/bfgd.php?id=635
 定陶新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/IQRXriyt/douyu.php?id=5875025
@@ -46,7 +45,6 @@ B1,#genre#
 福建新闻,http://live.nctv.top/IQRXriyt/fjtv.php?id=13
 港剧台1,http://live.nctv.top/IQRXriyt/douyu.php?id=338759
 港剧台2,http://live.nctv.top/IQRXriyt/douyu.php?id=4549169
-港剧台2,http://live.nctv.top/IQRXriyt/dy.php?id=4549169
 港剧台3,http://live.nctv.top/IQRXriyt/douyu.php?id=4290711
 港剧台3,http://live.nctv.top/IQRXriyt/dy.php?id=4290711
 港剧台4,http://live.nctv.top/IQRXriyt/douyu.php?id=45261342
@@ -60,19 +58,19 @@ B1,#genre#
 港剧台8,http://live.nctv.top/IQRXriyt/dy.php?id=7356023
 港剧台9,http://live.nctv.top/IQRXriyt/douyu.php?id=11922242
 港剧台9,http://live.nctv.top/IQRXriyt/dy.php?id=11922242
-寒亭新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/IQRXriyt/hntv.php?id=hnxw
+虎牙-TVB西游记,http://live.nctv.top/IQRXriyt/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/IQRXriyt/jstv.php?id=jsxw
 江苏新闻,http://live.nctv.top/IQRXriyt/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/IQRXriyt/jstv.php?id=jszy
 江苏综艺,http://live.nctv.top/IQRXriyt/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/IQRXriyt/jstv.php?id=tzjj
 靖江新闻,http://live.nctv.top/IQRXriyt/jstv5.php?id=tzjj
+巨野新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=hzjyxw
 七彩戏剧,http://live.nctv.top/IQRXriyt/bestv.php?id=qcxj
 清苑新闻,http://live.nctv.top/IQRXriyt/hbtv1.php?id=qy1
 热门综艺,http://live.nctv.top/IQRXriyt/bestv.php?id=rmzy
 山东新闻,http://live.nctv.top/IQRXriyt/sdtv.php?id=sdxw
-山东综艺,http://live.nctv.top/IQRXriyt/sdtv.php?id=sdzy
 陕西新闻资讯,http://live.nctv.top/IQRXriyt/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/IQRXriyt/migu.php?id=shxwzh
 神乐电影,http://live.nctv.top/IQRXriyt/douyu.php?id=85894
@@ -85,6 +83,7 @@ B1,#genre#
 鱼台新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=jiytxw
 郓城新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=jncqxw
+浙江公共新闻,http://live.nctv.top/IQRXriyt/zjtv.php?id=zjxw
 
 C1,#genre#
 AMC最爱电影,http://65.108.74.147:49366/iptv.php?key=gat10&id=58
@@ -237,17 +236,24 @@ Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
 东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
 东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
 非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
 凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
 凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
+公视,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
 寰宇财经,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
 寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 龙华电影,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+龙华偶像,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
 龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+龙华洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
 龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
 美亚电影,https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
 民视,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
+民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
 三立戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
 三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
 天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
 天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
 纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
@@ -255,6 +261,7 @@ Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
 无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
 有线新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
 娱乐新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbentertainment
+中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
 中天综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
 
