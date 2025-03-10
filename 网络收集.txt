@@ -36,20 +36,27 @@ B1,#genre#
 成都新闻,http://live.nctv.top/IQRXriyt/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/IQRXriyt/bfgd.php?id=635
 定陶新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=hzdt1
+斗鱼影视2,http://live.nctv.top/IQRXriyt/douyu.php?id=12459039
 斗鱼影视2,http://live.nctv.top/IQRXriyt/douyu.php?id=5875025
+斗鱼影视2,http://live.nctv.top/IQRXriyt/dy.php?id=12459039
 斗鱼影视2,http://live.nctv.top/IQRXriyt/dy.php?id=5875025
 斗鱼影视3,http://live.nctv.top/IQRXriyt/douyu.php?id=434971
+斗鱼影视3,http://live.nctv.top/IQRXriyt/dy.php?id=434971
 福建旅游,http://live.nctv.top/IQRXriyt/bestv.php?id=fjly
 福建旅游,http://live.nctv.top/IQRXriyt/fjtv.php?id=8
 福建新闻,http://live.nctv.top/IQRXriyt/bestv.php?id=fjxw
 福建新闻,http://live.nctv.top/IQRXriyt/fjtv.php?id=13
 港剧台1,http://live.nctv.top/IQRXriyt/douyu.php?id=338759
 港剧台2,http://live.nctv.top/IQRXriyt/douyu.php?id=4549169
+港剧台2,http://live.nctv.top/IQRXriyt/douyu.php?id=5261342
+港剧台2,http://live.nctv.top/IQRXriyt/dy.php?id=5261342
 港剧台3,http://live.nctv.top/IQRXriyt/douyu.php?id=4290711
 港剧台3,http://live.nctv.top/IQRXriyt/dy.php?id=4290711
 港剧台4,http://live.nctv.top/IQRXriyt/douyu.php?id=45261342
 港剧台5,http://live.nctv.top/IQRXriyt/douyu.php?id=5522351
+港剧台5,http://live.nctv.top/IQRXriyt/douyu.php?id=9548850
 港剧台5,http://live.nctv.top/IQRXriyt/dy.php?id=5522351
+港剧台5,http://live.nctv.top/IQRXriyt/dy.php?id=9548850
 港剧台6,http://live.nctv.top/IQRXriyt/douyu.php?id=7119207
 港剧台6,http://live.nctv.top/IQRXriyt/dy.php?id=7119207
 港剧台7,http://live.nctv.top/IQRXriyt/douyu.php?id=5061550
@@ -58,6 +65,7 @@ B1,#genre#
 港剧台8,http://live.nctv.top/IQRXriyt/dy.php?id=7356023
 港剧台9,http://live.nctv.top/IQRXriyt/douyu.php?id=11922242
 港剧台9,http://live.nctv.top/IQRXriyt/dy.php?id=11922242
+寒亭新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/IQRXriyt/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/IQRXriyt/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/IQRXriyt/jstv.php?id=jsxw
@@ -84,6 +92,8 @@ B1,#genre#
 郓城新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/IQRXriyt/qilu.php?id=jncqxw
 浙江公共新闻,http://live.nctv.top/IQRXriyt/zjtv.php?id=zjxw
+综艺节目,http://live.nctv.top/IQRXriyt/douyu.php?id=9067836
+综艺节目,http://live.nctv.top/IQRXriyt/dy.php?id=9067836
 
 C1,#genre#
 AMC最爱电影,http://65.108.74.147:49366/iptv.php?key=gat10&id=58
@@ -223,18 +233,46 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天亚洲台,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 E1,#genre#
+ELTa影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
+八大第一,https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
+东森财经,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
+东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
+凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
+凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
+寰宇财经,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
+寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+龙华洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
+龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+民视,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
+民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
+三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
+纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+纬来日本,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+娱乐新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbentertainment
+中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+中天综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+
+F1,#genre#
+NewTV超级综艺,http://47.79.86.200:50001/TVOD/1000000001000025771/ystenlive/index.m3u8
 NewTV超级综艺,http://47.79.86.200:50001/TVOD/1000000004000023658/ystenlive/index.m3u8
 NewTV超级综艺,http://47.79.86.200:50001/TVOD/1000000006000268002/ystenlive/index.m3u8
+NewTV超级综艺,http://47.79.86.200:50001/TVOD/2000000003000000029/hnbblive/index.m3u8
+NewTV金牌综艺,http://47.79.86.200:50001/TVOD/1000000004000026167/ystenlive/index.m3u8
 NewTV金牌综艺,http://47.79.86.200:50001/TVOD/2000000003000000005/hnbblive/index.m3u8
 热门综艺,http://47.79.86.200:50001/TVOD/5000000011000288011/bestzb/index.m3u8
 
-F1,#genre#
+G1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -260,7 +298,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-G1,#genre#
+H1,#genre#
 TVB千禧经典,http://aktv.132.us.kg/AKTV/live/aktv/null-15/AKTV.m3u8
 TVBPlus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
 翡翠台,http://aktv.132.us.kg/AKTV/live/aktv/null/AKTV.m3u8
@@ -272,7 +310,7 @@ TVBPlus,http://aktv.132.us.kg/AKTV/live/aktv/tvbplus/AKTV.m3u8
 无线新闻,http://aktv.132.us.kg/AKTV/live/aktv/null-1/AKTV.m3u8
 娱乐新闻台,http://aktv.132.us.kg/AKTV/live/aktv/hk/AKTV.m3u8
 
-H1,#genre#
+I1,#genre#
 TVB千禧经典,http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 TVB星河台,http://aktv_stream1.m16tv.cfd/stream/aktv2/tvb/AKTV.m3u8
 TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
@@ -302,7 +340,7 @@ Tvbs新闻,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-12/AKTV.m3u8
 
-I1,#genre#
+J1,#genre#
 凤凰香港,http://43.129.81.169/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -314,19 +352,4 @@ I1,#genre#
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 江西新闻,http://43.129.81.169/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西影视旅游,http://43.129.81.169/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
-
-J1,#genre#
-凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
-凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
-公视,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
-龙华洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
-民视,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
-天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
-天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
-天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
-纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
-无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
-有线新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
-中天新闻斯特,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
-中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
 
