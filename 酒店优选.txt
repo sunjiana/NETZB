@@ -2,5 +2,6 @@
 吉林综艺,http://221.9.97.148:9901/tsfile/live/1003_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 
 影视频道,#genre#
+峨眉电影[50FPS],http://183.223.157.33:9901/tsfile/live/1006_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
 吉视影视,http://221.9.97.148:9901/tsfile/live/1000_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
 长影,http://221.9.97.148:9901/tsfile/live/1006_1.m3u8?$不见黄河心不死=txiptv&playlive=0&authid=0
