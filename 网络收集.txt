@@ -57,6 +57,7 @@ B1,#genre#
 港剧台5,http://live.nctv.top/IQRXriyt/douyu.php?id=9548850
 港剧台5,http://live.nctv.top/IQRXriyt/dy.php?id=5522351
 港剧台5,http://live.nctv.top/IQRXriyt/dy.php?id=9548850
+港剧台6,http://live.nctv.top/IQRXriyt/douyu.php?id=7119207
 港剧台6,http://live.nctv.top/IQRXriyt/dy.php?id=7119207
 港剧台7,http://live.nctv.top/IQRXriyt/douyu.php?id=5061550
 港剧台7,http://live.nctv.top/IQRXriyt/dy.php?id=5061550
@@ -277,10 +278,12 @@ Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
 
 F1,#genre#
 NewTV超级综艺,http://47.79.86.200:50001/TVOD/1000000001000025771/ystenlive/index.m3u8
+NewTV超级综艺,http://47.79.86.200:50001/TVOD/1000000004000023658/ystenlive/index.m3u8
 NewTV超级综艺,http://47.79.86.200:50001/TVOD/1000000006000268002/ystenlive/index.m3u8
 NewTV超级综艺,http://47.79.86.200:50001/TVOD/2000000003000000029/hnbblive/index.m3u8
 NewTV金牌综艺,http://47.79.86.200:50001/TVOD/1000000004000026167/ystenlive/index.m3u8
 NewTV金牌综艺,http://47.79.86.200:50001/TVOD/2000000003000000005/hnbblive/index.m3u8
+热门综艺,http://47.79.86.200:50001/TVOD/5000000011000288011/bestzb/index.m3u8
 
 G1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
