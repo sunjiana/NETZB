@@ -71,6 +71,7 @@ B1,#genre#
 热门综艺,http://live.nctv.top/IQDSriyt/bestv.php?id=rmzy
 陕西新闻资讯,http://live.nctv.top/IQDSriyt/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/IQDSriyt/migu.php?id=shxwzh
+双滦新闻,http://live.nctv.top/IQDSriyt/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/IQDSriyt/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/IQDSriyt/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/IQDSriyt/jstv.php?id=tz1
@@ -223,6 +224,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
