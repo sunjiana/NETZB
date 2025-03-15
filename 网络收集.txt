@@ -35,6 +35,7 @@ B1,#genre#
 承德旅游文化,http://live.nctv.top/IQDJueryt/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/IQDJueryt/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/IQDJueryt/bfgd.php?id=635
+定陶新闻,http://live.nctv.top/IQDJueryt/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/IQDJueryt/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/IQDJueryt/douyu.php?id=434971
 福建旅游,http://live.nctv.top/IQDJueryt/bestv.php?id=fjly
