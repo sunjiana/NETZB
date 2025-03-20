@@ -61,7 +61,6 @@ B1,#genre#
 虎牙-TVB西游记,http://live.nctv.top/IQGYpiryt/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/IQGYpiryt/jstv.php?id=jsxw
 江苏新闻,http://live.nctv.top/IQGYpiryt/jstv5.php?id=jsxw
-江苏综艺,http://live.nctv.top/IQGYpiryt/jstv.php?id=jszy
 江苏综艺,http://live.nctv.top/IQGYpiryt/jstv5.php?id=jszy
 靖江新闻,http://live.nctv.top/IQGYpiryt/jstv.php?id=tzjj
 靖江新闻,http://live.nctv.top/IQGYpiryt/jstv5.php?id=tzjj
@@ -71,6 +70,7 @@ B1,#genre#
 热门综艺,http://live.nctv.top/IQGYpiryt/bestv.php?id=rmzy
 陕西新闻资讯,http://live.nctv.top/IQGYpiryt/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/IQGYpiryt/migu.php?id=shxwzh
+双滦新闻,http://live.nctv.top/IQGYpiryt/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/IQGYpiryt/sctv.php?id=scwhly
 四川新闻,http://live.nctv.top/IQGYpiryt/sctv.php?id=scxw
 泰州新闻,http://live.nctv.top/IQGYpiryt/jstv.php?id=tz1
@@ -223,6 +223,22 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 F1,#genre#
+八大第一,https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
+八大戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=badadrama
+八大综合,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
+东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+中天综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+
+G1,#genre#
 凤凰香港,http://43.129.81.169/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
