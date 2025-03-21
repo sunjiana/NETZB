@@ -35,7 +35,6 @@ B1,#genre#
 承德旅游文化,http://live.nctv.top/IQGYpiryt/hbtv1.php?id=cd2
 成都新闻,http://live.nctv.top/IQGYpiryt/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/IQGYpiryt/bfgd.php?id=635
-定陶新闻,http://live.nctv.top/IQGYpiryt/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/IQGYpiryt/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/IQGYpiryt/douyu.php?id=434971
 斗鱼影视3,http://live.nctv.top/IQGYpiryt/dy.php?id=434971
@@ -44,9 +43,7 @@ B1,#genre#
 福建新闻,http://live.nctv.top/IQGYpiryt/bestv.php?id=fjxw
 福建新闻,http://live.nctv.top/IQGYpiryt/fjtv.php?id=13
 港剧台1,http://live.nctv.top/IQGYpiryt/douyu.php?id=5061550
-港剧台1,http://live.nctv.top/IQGYpiryt/dy.php?id=5061550
 港剧台2,http://live.nctv.top/IQGYpiryt/douyu.php?id=5261342
-港剧台2,http://live.nctv.top/IQGYpiryt/dy.php?id=5261342
 港剧台3,http://live.nctv.top/IQGYpiryt/douyu.php?id=4290711
 港剧台3,http://live.nctv.top/IQGYpiryt/dy.php?id=4290711
 港剧台4,http://live.nctv.top/IQGYpiryt/douyu.php?id=5522351
@@ -195,16 +192,6 @@ Tvbs新闻,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 中天亚洲台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-12/AKTV.m3u8
 
 E1,#genre#
-EYE-戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
-八大综合,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
-东森财经,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
-东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
-民视,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
-民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
-三立戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
-天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
-
-F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -232,12 +219,7 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-G1,#genre#
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-
-H1,#genre#
+F1,#genre#
 凤凰香港,http://43.129.81.169/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.m3u8
