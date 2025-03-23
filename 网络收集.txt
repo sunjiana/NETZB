@@ -32,9 +32,7 @@ B1,#genre#
 常州新闻,http://live.nctv.top/IQKRpiryt/jstv.php?id=cz1
 常州新闻,http://live.nctv.top/IQKRpiryt/jstv5.php?id=cz1
 承德旅游文化,http://live.nctv.top/IQKRpiryt/hbtv1.php?id=cd2
-成都新闻,http://live.nctv.top/IQKRpiryt/cdtv.php?id=cdtv1
 重温经典,http://live.nctv.top/IQKRpiryt/bfgd.php?id=635
-定陶新闻,http://live.nctv.top/IQKRpiryt/qilu.php?id=hzdt1
 斗鱼影视2,http://live.nctv.top/IQKRpiryt/douyu.php?id=12459039
 斗鱼影视3,http://live.nctv.top/IQKRpiryt/douyu.php?id=434971
 斗鱼影视3,http://live.nctv.top/IQKRpiryt/dy.php?id=434971
@@ -76,7 +74,6 @@ B1,#genre#
 泰州新闻,http://live.nctv.top/IQKRpiryt/jstv5.php?id=tz1
 兖州新闻,http://live.nctv.top/IQKRpiryt/qilu.php?id=jiyzxw
 鱼台新闻,http://live.nctv.top/IQKRpiryt/qilu.php?id=jiytxw
-郓城新闻,http://live.nctv.top/IQKRpiryt/qilu.php?id=hzycxw
 长清新闻,http://live.nctv.top/IQKRpiryt/qilu.php?id=jncqxw
 综艺节目,http://live.nctv.top/IQKRpiryt/douyu.php?id=9067836
 综艺节目,http://live.nctv.top/IQKRpiryt/dy.php?id=9067836
@@ -118,7 +115,6 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
