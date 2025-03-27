@@ -4,7 +4,6 @@ TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -69,7 +68,6 @@ B1,#genre#
 陕西新闻资讯,http://live.nctv.top/IDOPEpiryt/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/IDOPEpiryt/migu.php?id=shxwzh
 双滦新闻,http://live.nctv.top/IDOPEpiryt/hbtv1.php?id=sl1
-四川文化旅游,http://live.nctv.top/IDOPEpiryt/sctv.php?id=scwhly
 泰州新闻,http://live.nctv.top/IDOPEpiryt/jstv.php?id=tz1
 泰州新闻,http://live.nctv.top/IDOPEpiryt/jstv5.php?id=tz1
 兖州新闻,http://live.nctv.top/IDOPEpiryt/qilu.php?id=jiyzxw
@@ -112,7 +110,6 @@ D1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -134,7 +131,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 E1,#genre#
 安徽综艺体育,http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8
@@ -150,4 +146,9 @@ E1,#genre#
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.m3u8
 江西新闻,http://43.129.81.169/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西影视旅游,http://43.129.81.169/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
+
+F1,#genre#
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
