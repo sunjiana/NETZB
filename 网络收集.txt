@@ -53,7 +53,6 @@ B1,#genre#
 港剧台6,http://nctv.top/IDOEPpiryt/douyu.php?id=7119207
 港剧台7,http://nctv.top/IDOEPpiryt/douyu.php?id=7356023
 港剧台7,http://nctv.top/IDOEPpiryt/dy.php?id=7356023
-寒亭新闻,http://nctv.top/IDOEPpiryt/qilu.php?id=wfhtxw
 河南新闻,http://nctv.top/IDOEPpiryt/hntv.php?id=hnxw
 虎牙-TVB西游记,http://nctv.top/IDOEPpiryt/huya.php?id=23735126
 江苏新闻,http://nctv.top/IDOEPpiryt/jstv.php?id=jsxw
@@ -90,6 +89,10 @@ TVBS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs/AKTV.m3u8
 翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台泰国,http://aktv_stream1.m16tv.cfd/stream/aktv/null-16/AKTV.m3u8
 凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+凤凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+华视,http://aktv_stream1.m16tv.cfd/stream/aktv/null-11/AKTV.m3u8
+寰宇新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 黄金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 美亚电影台HK,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 三立财经新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-14/AKTV.m3u8
@@ -98,6 +101,11 @@ TVBS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs/AKTV.m3u8
 无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-20/AKTV.m3u8
 无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+亚洲新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+娱乐新闻台HK,http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+中视,http://aktv_stream1.m16tv.cfd/stream/aktv/null-10/AKTV.m3u8
+中天新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+中天亚洲台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-12/AKTV.m3u8
 
 D1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
