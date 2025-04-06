@@ -1,0 +1,5 @@
+影视频道,#genre#
+经典电影,http://123.12.176.115:9901/tsfile/live/1014_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+热播剧场,http://119.129.173.101:9901/tsfile/live/1008_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+热播剧场,http://119.129.173.229:9901/tsfile/live/1008_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
+热播剧场,http://119.129.173.96:9901/tsfile/live/1008_1.m3u8?$不见黄河心不死=txiptv&playlive=1&authid=0
