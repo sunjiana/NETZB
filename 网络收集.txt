@@ -1,7 +1,6 @@
 A1,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
@@ -19,7 +18,6 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-江西影视旅游,http://php.jdshipin.com:8880/iptv.php?id=jxysly
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
@@ -51,15 +49,13 @@ B1,#genre#
 港剧台4,http://live.nctv.top/Jhsdat/dy.php?id=5522351
 港剧台5,http://live.nctv.top/Jhsdat/douyu.php?id=9548850
 港剧台6,http://live.nctv.top/Jhsdat/douyu.php?id=7119207
+港剧台7,http://live.nctv.top/Jhsdat/douyu.php?id=7356023
 港剧台7,http://live.nctv.top/Jhsdat/dy.php?id=7356023
 寒亭新闻,http://live.nctv.top/Jhsdat/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/Jhsdat/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/Jhsdat/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/Jhsdat/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/Jhsdat/jstv5.php?id=jszy
-江西新闻,http://live.nctv.top/Jhsdat/jxtv.php?id=7
-江西影视旅游,http://live.nctv.top/Jhsdat/jx.php?id=4
-江西影视旅游,http://live.nctv.top/Jhsdat/jxtv.php?id=4
 靖江新闻,http://live.nctv.top/Jhsdat/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/Jhsdat/qilu.php?id=hzjyxw
 七彩戏剧,http://live.nctv.top/Jhsdat/bestv.php?id=qcxj
@@ -135,10 +131,7 @@ TVBS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs/AKTV.m3u8
 无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-20/AKTV.m3u8
 无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 亚洲新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-娱乐新闻台HK,http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 中视,http://aktv_stream1.m16tv.cfd/stream/aktv/null-10/AKTV.m3u8
-中天新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-中天亚洲台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-12/AKTV.m3u8
 
 E1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
@@ -172,7 +165,6 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 美亚电影,http://live4play.uk/livehttpplay?channel_id=20197
 民视闽南,http://live4play.uk/livehttpplay?channel_id=20074
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
-闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
 三立都会,http://live4play.uk/livehttpplay?channel_id=20100
 三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
@@ -195,10 +187,10 @@ F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -206,11 +198,9 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 天映,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
