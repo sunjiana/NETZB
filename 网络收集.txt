@@ -3,7 +3,6 @@ A1,#genre#
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVBPlus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -14,6 +13,8 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 
 B1,#genre#
 1905国内电影,http://nctv.top/IDOEPpiryt/1905.php?id=1905a
@@ -68,7 +69,6 @@ D1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -84,9 +84,4 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-
-E1,#genre#
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
-美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
