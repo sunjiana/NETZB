@@ -172,6 +172,7 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 天映电影,http://live4play.uk/livehttpplay?channel_id=10130
+天映经典,http://live4play.uk/livehttpplay?channel_id=20063
 纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
 纬来日本,http://live4play.uk/livehttpplay?channel_id=20303
 纬来体育,http://live4play.uk/livehttpplay?channel_id=20120
