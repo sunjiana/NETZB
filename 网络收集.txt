@@ -187,7 +187,6 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
