@@ -19,9 +19,6 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-江西新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
-江西影视旅游,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
-江西影视旅游,http://php.jdshipin.com:8880/iptv.php?id=jxysly
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
@@ -59,9 +56,6 @@ B1,#genre#
 虎牙-TVB西游记,http://live.nctv.top/Xsuikstg/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/Xsuikstg/jstv5.php?id=jsxw
 江苏综艺,http://live.nctv.top/Xsuikstg/jstv5.php?id=jszy
-江西新闻,http://live.nctv.top/Xsuikstg/jx.php?id=7
-江西新闻,http://live.nctv.top/Xsuikstg/jxtv.php?id=7
-江西影视旅游,http://live.nctv.top/Xsuikstg/jx.php?id=4
 靖江新闻,http://live.nctv.top/Xsuikstg/jstv5.php?id=tzjj
 巨野新闻,http://live.nctv.top/Xsuikstg/qilu.php?id=hzjyxw
 七彩戏剧,http://live.nctv.top/Xsuikstg/bestv.php?id=qcxj
@@ -142,7 +136,6 @@ E1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 八大第一,http://live4play.uk/livehttpplay?channel_id=20073
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
-八大娱乐,http://live4play.uk/livehttpplay?channel_id=20071
 八大综合,http://live4play.uk/livehttpplay?channel_id=20068
 采昌综合,http://live4play.uk/livehttpplay?channel_id=20141
 大爱综合,http://live4play.uk/livehttpplay?channel_id=20032
@@ -198,6 +191,7 @@ TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -221,5 +215,6 @@ G1,#genre#
 港剧台5,http://www.xzbn.site:35455/douyu/9548850
 港剧台6,http://www.xzbn.site:35455/douyu/7119207
 港剧台7,http://www.xzbn.site:35455/douyu/7356023
+虎牙-TVB西游记,http://www.xzbn.site:35455/huya/23735126
 综艺节目,http://www.xzbn.site:35455/douyu/9067836
 
