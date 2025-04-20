@@ -21,6 +21,7 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 
 B1,#genre#
 1905国内电影,http://live.nctv.top/Xsuikstg/1905.php?id=1905a
@@ -146,8 +147,6 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
 东森综合,http://live4play.uk/livehttpplay?channel_id=20104
 非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
@@ -166,7 +165,6 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
 三立都会,http://live4play.uk/livehttpplay?channel_id=20100
-三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 天映电影,http://live4play.uk/livehttpplay?channel_id=10130
