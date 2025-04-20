@@ -1,7 +1,6 @@
 A1,#genre#
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
@@ -136,6 +135,7 @@ E1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 八大第一,http://live4play.uk/livehttpplay?channel_id=20073
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
+八大娱乐,http://live4play.uk/livehttpplay?channel_id=20071
 八大综合,http://live4play.uk/livehttpplay?channel_id=20068
 采昌综合,http://live4play.uk/livehttpplay?channel_id=20141
 大爱综合,http://live4play.uk/livehttpplay?channel_id=20032
@@ -153,9 +153,7 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 公视闽南,http://live4play.uk/livehttpplay?channel_id=20087
-华视闽南,http://live4play.uk/livehttpplay?channel_id=20086
 今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
-靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
 龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
 龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
 龙华洋片,http://live4play.uk/livehttpplay?channel_id=20090
@@ -186,6 +184,7 @@ F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -206,6 +205,11 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 G1,#genre#
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
+H1,#genre#
 斗鱼影视2,http://www.xzbn.site:35455/douyu/12459039
 斗鱼影视3,http://www.xzbn.site:35455/douyu/434971
 港剧台1,http://www.xzbn.site:35455/douyu/5061550
