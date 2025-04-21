@@ -8,6 +8,7 @@ TVBJ2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -18,6 +19,8 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+江西新闻,http://php.jdshipin.com:8880/iptv.php?id=jxxw
+江西影视旅游,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
@@ -184,6 +187,7 @@ F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -213,6 +217,5 @@ G1,#genre#
 港剧台5,http://www.xzbn.site:35455/douyu/9548850
 港剧台6,http://www.xzbn.site:35455/douyu/7119207
 港剧台7,http://www.xzbn.site:35455/douyu/7356023
-虎牙-TVB西游记,http://www.xzbn.site:35455/huya/23735126
 综艺节目,http://www.xzbn.site:35455/douyu/9067836
 
