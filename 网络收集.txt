@@ -22,6 +22,7 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 江西新闻,http://php.jdshipin.com:8880/iptv.php?id=jxxw
 江西影视旅游,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
 江西影视旅游,http://php.jdshipin.com:8880/iptv.php?id=jxysly
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 普宁新闻,http://php.jdshipin.com:8880/chudian.php?id=pnzh
 
@@ -40,7 +41,6 @@ B1,#genre#
 福建旅游,http://live.nctv.top/Xsuikstg/bestv.php?id=fjly
 福建旅游,http://live.nctv.top/Xsuikstg/fjtv.php?id=8
 福建新闻,http://live.nctv.top/Xsuikstg/bestv.php?id=fjxw
-福建新闻,http://live.nctv.top/Xsuikstg/fjtv.php?id=13
 港剧台1,http://live.nctv.top/Xsuikstg/douyu.php?id=5061550
 港剧台1,http://live.nctv.top/Xsuikstg/dy.php?id=5061550
 港剧台2,http://live.nctv.top/Xsuikstg/douyu.php?id=5261342
@@ -105,6 +105,21 @@ C1,#genre#
 综艺节目,http://nctv.top/IDOEPpiryt/dy.php?id=9067836
 
 D1,#genre#
+AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+TVB星河台,http://aktv_stream1.m16tv.cfd/stream/aktv2/tvb/AKTV.m3u8
+TVB+,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
+东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+黄金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+美亚电影台HK,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+三立财经新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-14/AKTV.m3u8
+无线卫星新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+亚洲新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+中天新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+
+E1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 八大第一,http://live4play.uk/livehttpplay?channel_id=20073
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
@@ -136,9 +151,9 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 美亚电影,http://live4play.uk/livehttpplay?channel_id=20197
 民视闽南,http://live4play.uk/livehttpplay?channel_id=20074
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
+闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
 三立都会,http://live4play.uk/livehttpplay?channel_id=20100
-三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 天映电影,http://live4play.uk/livehttpplay?channel_id=10130
@@ -154,14 +169,12 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 中天娱乐,http://live4play.uk/livehttpplay?channel_id=20079
 中天综合,http://live4play.uk/livehttpplay?channel_id=20064
 
-E1,#genre#
+F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -177,17 +190,4 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-
-F1,#genre#
-斗鱼影视2,http://www.xzbn.site:35455/douyu/12459039
-斗鱼影视3,http://www.xzbn.site:35455/douyu/434971
-港剧台1,http://www.xzbn.site:35455/douyu/5061550
-港剧台2,http://www.xzbn.site:35455/douyu/5261342
-港剧台3,http://www.xzbn.site:35455/douyu/4290711
-港剧台4,http://www.xzbn.site:35455/douyu/5522351
-港剧台5,http://www.xzbn.site:35455/douyu/9548850
-港剧台6,http://www.xzbn.site:35455/douyu/7119207
-港剧台7,http://www.xzbn.site:35455/douyu/7356023
-虎牙-TVB西游记,http://www.xzbn.site:35455/huya/23735126
-综艺节目,http://www.xzbn.site:35455/douyu/9067836
 
