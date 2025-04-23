@@ -52,7 +52,6 @@ B1,#genre#
 港剧台6,http://live.nctv.top/Xsuikstg/douyu.php?id=7119207
 港剧台7,http://live.nctv.top/Xsuikstg/douyu.php?id=7356023
 港剧台7,http://live.nctv.top/Xsuikstg/dy.php?id=7356023
-寒亭新闻,http://live.nctv.top/Xsuikstg/qilu.php?id=wfhtxw
 河南新闻,http://live.nctv.top/Xsuikstg/hntv.php?id=hnxw
 虎牙-TVB西游记,http://live.nctv.top/Xsuikstg/huya.php?id=23735126
 江苏新闻,http://live.nctv.top/Xsuikstg/jstv5.php?id=jsxw
@@ -109,20 +108,17 @@ AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 TVB星河台,http://aktv_stream1.m16tv.cfd/stream/aktv2/tvb/AKTV.m3u8
 TVB+,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
-TVBS,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs/AKTV.m3u8
-东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 凤凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-华视,http://aktv_stream1.m16tv.cfd/stream/aktv/null-11/AKTV.m3u8
-寰宇新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-美亚电影台HK,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-无线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+黄金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+中天新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 
 E1,#genre#
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 八大第一,http://live4play.uk/livehttpplay?channel_id=20073
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
 八大娱乐,http://live4play.uk/livehttpplay?channel_id=20071
-八大综合,http://live4play.uk/livehttpplay?channel_id=20068
 采昌综合,http://live4play.uk/livehttpplay?channel_id=20141
 大爱综合,http://live4play.uk/livehttpplay?channel_id=20032
 东森财经,http://live4play.uk/livehttpplay?channel_id=20078
@@ -150,8 +146,6 @@ Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 民视闽南,http://live4play.uk/livehttpplay?channel_id=20074
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
 闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
-年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
-三立都会,http://live4play.uk/livehttpplay?channel_id=20100
 三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
@@ -172,7 +166,6 @@ F1,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
