@@ -2,7 +2,7 @@ name: IP采集检测
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # 每四个小时的第 0 分钟运行
+    - cron: '0 16 * * *'  # 每四个小时的第 0 分钟运行
   workflow_dispatch:
     分支:
       - main
