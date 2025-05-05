@@ -1134,7 +1134,7 @@ for keyword in keywords:
 print('playlist制作完成！ 文件输出在当前文件夹！')
 # 合并自定义频道文件#
 file_contents = []
-file_paths = ["playlist/四川电信.txt", "playlist/河南电信.txt", "playlist/河北电信.txt"]  # 替换为实际的文件路径列表
+file_paths = ["playlist/辽宁电信.txt", "playlist/辽宁联通.txt", "playlist/辽宁移动.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding="utf-8") as file:
@@ -1179,7 +1179,7 @@ with open('组播源.txt', 'r', encoding='utf-8') as file, open('DD.txt', 'w', e
     for line in file:
         if re.search(pattern, line):  # 如果行中有任意关键字
           DD.write(line)  # 将该行写入输出文件
-keywords = ['湖南', '广东', '广州', '河南', '河北']  # 需要提取的关键字列表
+keywords = ['辽宁', '黑龙江', '天津', '北京']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
 #pattern = r"^(.*?),(?!#genre#)(.*?)$" #以分类直接复制
 with open('组播源.txt', 'r', encoding='utf-8') as file, open('df1.txt', 'w', encoding='utf-8') as df1:
