@@ -31,8 +31,8 @@ jobs:
           python ${{ github.workspace }}/py/酒店源.py      
       - name: 提交更改
         run: |
-          git config --local user.email "luoyexp@163.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           #git reset --hard origin/main
           git add .
           git commit -m "Add generated file"
