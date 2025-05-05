@@ -33,7 +33,6 @@ urls = [
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJsaWFvbmluZyI=", # 辽宁
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJoZWlsb25namlhbmciIA==" # 黑龙
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJiZWlqaW5nIiA=" # 北京
-    "https://fofa.info/result?qbase64=
     #"https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJIZW5hbiI%3D",#河南
     #"https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJoZWJlaSI%3D",#河北
     #"https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJzaWNodWFuIg%3D%3D",#四川  
