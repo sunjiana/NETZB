@@ -139,7 +139,7 @@ for keyword in keywords:
 print('节目表制作完成！ 文件输出在当前文件夹！')
 # 合并自定义频道文件#################################################################################################
 file_contents = []
-file_paths = ["辽宁联通.txt", "河北电信.txt"]  # 替换为实际的文件路径列表
+file_paths = ["河南电信.txt", "河北电信.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding="utf-8") as file:
@@ -168,7 +168,8 @@ with open('组播源.txt', 'r', encoding='utf-8') as file, open('f.txt', 'w', en
         if re.search(pattern, line):  # 如果行中有任意关键字
          f.write(line)  # 将该行写入输出文件
 #从整理好的文本中按类别进行特定关键词提取#######################################################################################################################################
-keywords = ['辽宁', '朝阳', '葫芦岛', '锦州', '大连', '沈阳', '盘锦', '辽阳', '鞍山', '阜新', '营口', '铁岭', '抚顺', '本溪', '丹东', '朝阳']  # 需要提取的关键字列表
+keywords = ['河南', '焦作', '开封', '卢氏', '洛阳', '孟津', '安阳', '宝丰', '邓州', '渑池', '南阳', '内黄', '平顶山', '淇县', '郏县', '封丘', '获嘉', '巩义', '杞县', '汝阳', '三门峡', '卫辉', '淅川', \
+            '新密', '新乡', '信阳', '新郑', '延津', '叶县', '义马', '永城', '禹州', '原阳', '镇平', '郑州', '周口']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
 #pattern = r"^(.*?),(?!#genre#)(.*?)$" #以分类直接复制
 with open('组播源.txt', 'r', encoding='utf-8') as file, open('f1.txt', 'w', encoding='utf-8') as f1:    #####定义临时文件名
@@ -438,7 +439,7 @@ def txt_to_m3u(input_file, output_file):
 # 将txt文件转换为m3u文件
 txt_to_m3u('综合源.txt', '综合源.m3u')
 #任务结束，删除不必要的过程文件###########################################################################################################################
-files_to_remove = ['辽宁联通.txt', '河北电信.txt', '组播源.txt', "TW.txt", "a.txt", "a0.txt", "b.txt", "b1.txt", "港澳.txt", "df0.txt", "df.txt", "df1.txt", "sr1.txt", "sr2.txt", \
+files_to_remove = ['湖南电信.txt', '广东电信.txt', '四川电信.txt', '河北电信.txt', '河南电信.txt', '天津联通.txt', '组播源.txt', "TW.txt", "a.txt", "a0.txt", "b.txt", "b1.txt", "港澳.txt", "df0.txt", "df.txt", "df1.txt", "sr1.txt", "sr2.txt", \
                    "c2.txt", "c1.txt", "DD.txt", "f.txt", "f1.txt", "酒店源.txt"]
 for file in files_to_remove:
     if os.path.exists(file):
