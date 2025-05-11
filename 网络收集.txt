@@ -40,7 +40,6 @@ B1,#genre#
 清苑新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=qy1
 热门综艺,http://live.nctv.top/DYjsklis/bestv.php?id=rmzy
 陕西新闻资讯,http://live.nctv.top/DYjsklis/qly.php?id=5500
-陕西新闻资讯,http://live.nctv.top/DYjsklis/sxtv.php?id=1127
 上海新闻,http://live.nctv.top/DYjsklis/migu.php?id=shxwzh
 双滦新闻,http://live.nctv.top/DYjsklis/hbtv1.php?id=sl1
 四川文化旅游,http://live.nctv.top/DYjsklis/sctv.php?id=scwhly
