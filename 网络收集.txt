@@ -20,7 +20,6 @@ B1,#genre#
 台湾|东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 台湾|东森洋片ETTVWestern,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 台湾|东森综合ETTVMetro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-台湾|公视2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 台湾|寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 台湾|民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 台湾|民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
