@@ -16,11 +16,9 @@ B1,#genre#
 马来西亚|TVBJade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 台湾|八大第一GTVFirst,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 台湾|东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-台湾|东森戏剧ETTVDrama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 台湾|东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 台湾|东森洋片ETTVWestern,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 台湾|东森综合ETTVMetro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-台湾|寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 台湾|民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 台湾|民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 台湾|民视新闻台FTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
@@ -32,10 +30,7 @@ B1,#genre#
 台湾|中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 台湾|中天娱乐CTIEntertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 台湾|中天综合CTIMetro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-台湾|AXNTaiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-台湾|EYETV旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 台湾|EYETV戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-台湾|HollywoodMovies,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
 台湾|TVBS欢乐台（备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 香港|翡翠台backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
