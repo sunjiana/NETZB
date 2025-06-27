@@ -16,7 +16,6 @@ B1,#genre#
 马来西亚|TVBJade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 台湾|八大第一GTVFirst,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 台湾|东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-台湾|东森新闻ETTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 台湾|东森洋片ETTVWestern,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 台湾|东森综合ETTVMetro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 台湾|民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
