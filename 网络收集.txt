@@ -22,10 +22,8 @@ B1,#genre#
 台湾|民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 台湾|民视新闻台FTVNews,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 台湾|纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 台湾|亚洲旅游TLCAsia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 台湾|中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-台湾|中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 台湾|中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 台湾|中天娱乐CTIEntertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 台湾|中天综合CTIMetro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
@@ -42,6 +40,5 @@ B1,#genre#
 新闻|CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 新闻|CNNbackup,https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
 新闻|DWDeutsch,https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
-新闻|FoxNews,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 新闻|France24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 
