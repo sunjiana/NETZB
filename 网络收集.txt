@@ -15,7 +15,6 @@ B1,#genre#
 马来西亚|TVBEntertainment,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 马来西亚|TVBJade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 台湾|八大第一GTVFirst,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-台湾|东森电影ETTVMovie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 台湾|东森洋片ETTVWestern,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 台湾|东森综合ETTVMetro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 台湾|民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
@@ -25,11 +24,9 @@ B1,#genre#
 台湾|亚洲旅游TLCAsia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 台湾|中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 台湾|中天娱乐CTIEntertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
-台湾|EYETV戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 台湾|TVBS欢乐台（备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 香港|翡翠台backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-香港|凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 香港|iNews新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
 新闻|ABCNews,https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
 新闻|Al-Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
