@@ -1,4 +1,7 @@
 A1,#genre#
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+江苏新闻,http://8.138.7.223/tv/jstv.php?id=jsxw
+江苏综艺,http://8.138.7.223/tv/jstv.php?id=jszy
 靖宇综合,http://stream8.jlntv.cn/jytv/playlist.m3u8
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 梨树新闻,http://stream6.jlntv.cn/ls/playlist.m3u8
@@ -11,6 +14,7 @@ A1,#genre#
 频道,#genre#
 频道,#genre#
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+新闻News,#genre#
 新闻News,#genre#
 新闻News,#genre#
 新闻News,#genre#
